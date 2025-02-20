@@ -1,0 +1,92 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Search or Create course</h2>
+<hr>
+{% if error %}
+    <div class="alert alert-danger">{{ error }}</div>
+{% endif %}
+<form method="POST">
+    {% csrf_token %}
+    <div class="form-group">
+        <label for="category">Category:</label>
+        <select class="form-control" id="category" name="category">
+        <option value=""></option>
+        <option value="Python Programming">Python</option>
+        <option value="Java">Java</option>
+        <option value="Programmming Language">Programming Languages</option>
+        <option value="Javascript">Javascript</option>
+        <option value="React JS programming">React JS</option>
+        <option value="Mysql">Mysql</option>
+        <option value="Web Development">Web Development</option>
+        <option value="Full Stack">Full Stack</option>
+        <option value="App Development">App Development</option>
+        <option value="DSA">DSA</option>
+        
+
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="search">Search:</label>
+        <input type="text" class="form-control" id="search" name="search_topic" placeholder="Enter your search term">
+        <!-- <input type="text" class="form-control" id="location" name="location" required> -->
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+   
+    <a href="/create_course" class="btn btn-primary">Create Course</a>
+    <br>
+    <br>
+
+<h2>Recommendations</h2>
+{% if recommendation_courses %}
+
+<div class="card" style="width: 100%;">
+    <ul>
+        {% for topic, data in recommendation_courses.items %}
+            {% if data.playlists and data.videos %}
+                <li>
+                    <strong>{{ topic }}</strong><br>
+                    
+                    <div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
+                        <div>
+                            <strong>Videos:</strong>
+                            <ul style="list-style-type: none; padding: 0;">
+                                {% for v_id, v_thumb in data.videos %}
+                                    <li style="display: inline-block; margin-right: 10px;">
+                                        <a href="/custom_video/{{ v_id }}" target="_self">
+                                            <img src="{{ v_thumb }}" alt="Video Thumbnail" width="150">
+                                            View Video
+                                        </a>
+                                    </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                        
+                        <div>
+                            <strong>Playlists:</strong>
+                            <ul style="list-style-type: none; padding: 0;">
+                                {% for p_id, p_thumb in data.playlists %}
+                                    <li style="display: inline-block; margin-right: 10px;">
+                                        <a href="/c_playlist_video/{{ p_id }}" target="_self">
+                                            <img src="{{ p_thumb }}" alt="Playlist Thumbnail" width="150">
+                                            View Playlist
+                                        </a>
+                                    </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
+
+{% else %}
+    <p>No recommendations available.</p>
+{% endif %}
+
+
+
+{% endblock %}

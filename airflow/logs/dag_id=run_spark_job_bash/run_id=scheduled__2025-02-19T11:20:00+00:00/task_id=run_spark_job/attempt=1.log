@@ -1,0 +1,45 @@
+[2025-02-19T16:58:51.857+0530] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-02-19T16:58:51.893+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: run_spark_job_bash.run_spark_job scheduled__2025-02-19T11:20:00+00:00 [queued]>
+[2025-02-19T16:58:51.906+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: run_spark_job_bash.run_spark_job scheduled__2025-02-19T11:20:00+00:00 [queued]>
+[2025-02-19T16:58:51.906+0530] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2025-02-19T16:58:51.927+0530] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): run_spark_job> on 2025-02-19 11:20:00+00:00
+[2025-02-19T16:58:51.931+0530] {standard_task_runner.py:63} INFO - Started process 45638 to run task
+[2025-02-19T16:58:51.935+0530] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'run_spark_job_bash', 'run_spark_job', 'scheduled__2025-02-19T11:20:00+00:00', '--job-id', '50', '--raw', '--subdir', 'DAGS_FOLDER/testdag.py', '--cfg-path', '/tmp/tmpi3azxyys']
+[2025-02-19T16:58:51.936+0530] {standard_task_runner.py:91} INFO - Job 50: Subtask run_spark_job
+[2025-02-19T16:58:52.045+0530] {task_command.py:426} INFO - Running <TaskInstance: run_spark_job_bash.run_spark_job scheduled__2025-02-19T11:20:00+00:00 [running]> on host Nitesh.
+[2025-02-19T16:58:52.358+0530] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='run_spark_job_bash' AIRFLOW_CTX_TASK_ID='run_spark_job' AIRFLOW_CTX_EXECUTION_DATE='2025-02-19T11:20:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-02-19T11:20:00+00:00'
+[2025-02-19T16:58:52.359+0530] {taskinstance.py:430} INFO - ::endgroup::
+[2025-02-19T16:58:52.360+0530] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-02-19T16:58:52.360+0530] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'spark-submit /home/nitesh/project_1/youtube_project/spark_jobs/testjob.py']
+[2025-02-19T16:58:52.366+0530] {subprocess.py:86} INFO - Output:
+[2025-02-19T16:58:54.459+0530] {subprocess.py:93} INFO - 25/02/19 16:58:54 WARN Utils: Your hostname, Nitesh resolves to a loopback address: 127.0.1.1; using 10.255.255.254 instead (on interface lo)
+[2025-02-19T16:58:54.462+0530] {subprocess.py:93} INFO - 25/02/19 16:58:54 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+[2025-02-19T16:58:55.482+0530] {subprocess.py:93} INFO - Traceback (most recent call last):
+[2025-02-19T16:58:55.482+0530] {subprocess.py:93} INFO -   File "/home/nitesh/project_1/youtube_project/spark_jobs/testjob.py", line 108, in <module>
+[2025-02-19T16:58:55.482+0530] {subprocess.py:93} INFO -     main()
+[2025-02-19T16:58:55.482+0530] {subprocess.py:93} INFO -   File "/home/nitesh/project_1/youtube_project/spark_jobs/testjob.py", line 4, in main
+[2025-02-19T16:58:55.482+0530] {subprocess.py:93} INFO -     from pyspark.ml.feature import StringIndexer
+[2025-02-19T16:58:55.482+0530] {subprocess.py:93} INFO -   File "/home/nitesh/project_1/myenv/lib/python3.10/site-packages/pyspark/python/lib/pyspark.zip/pyspark/ml/__init__.py", line 22, in <module>
+[2025-02-19T16:58:55.483+0530] {subprocess.py:93} INFO -   File "/home/nitesh/project_1/myenv/lib/python3.10/site-packages/pyspark/python/lib/pyspark.zip/pyspark/ml/base.py", line 40, in <module>
+[2025-02-19T16:58:55.483+0530] {subprocess.py:93} INFO -   File "/home/nitesh/project_1/myenv/lib/python3.10/site-packages/pyspark/python/lib/pyspark.zip/pyspark/ml/param/__init__.py", line 32, in <module>
+[2025-02-19T16:58:55.483+0530] {subprocess.py:93} INFO - ModuleNotFoundError: No module named 'numpy'
+[2025-02-19T16:58:55.545+0530] {subprocess.py:93} INFO - 25/02/19 16:58:55 INFO ShutdownHookManager: Shutdown hook called
+[2025-02-19T16:58:55.546+0530] {subprocess.py:93} INFO - 25/02/19 16:58:55 INFO ShutdownHookManager: Deleting directory /tmp/spark-c9aad0b6-1056-49c4-b0c5-db82a2390909
+[2025-02-19T16:58:55.592+0530] {subprocess.py:97} INFO - Command exited with return code 1
+[2025-02-19T16:58:55.593+0530] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-02-19T16:58:55.616+0530] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 400, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/operators/bash.py", line 243, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2025-02-19T16:58:55.623+0530] {taskinstance.py:1206} INFO - Marking task as UP_FOR_RETRY. dag_id=run_spark_job_bash, task_id=run_spark_job, run_id=scheduled__2025-02-19T11:20:00+00:00, execution_date=20250219T112000, start_date=20250219T112851, end_date=20250219T112855
+[2025-02-19T16:58:55.648+0530] {standard_task_runner.py:110} ERROR - Failed to execute job 50 for task run_spark_job (Bash command failed. The command returned a non-zero exit code 1.; 45638)
+[2025-02-19T16:58:55.684+0530] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2025-02-19T16:58:55.714+0530] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-02-19T16:58:55.721+0530] {local_task_job_runner.py:222} INFO - ::endgroup::

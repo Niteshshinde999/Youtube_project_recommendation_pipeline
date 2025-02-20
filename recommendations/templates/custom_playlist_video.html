@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% block content %}
+<form method="POST">
+    {% csrf_token %}
+    <h3>Videos:</h3>
+    <ul>
+        {% for video in playlist_videos %}
+            <li>
+                <input type="checkbox" name="video_choice" value="{{ video.id }}:&:{{ video.thumbnail }}" {% if video.id in selectedvideo %} checked {% endif %}>
+                <a href="/custom_video/{{ video.id }}" target="_self">
+                    <img src="{{ video.thumbnail }}" alt="{{ playlist.title }}" width="200">
+            </a>
+            <br>
+                <strong>{{ video.title }}</strong><br>
+                {{ video.description }}<br>
+            <br>
+                <!-- <form method="POST" >
+                    {% csrf_token %}
+                    <button type="submit">Add Selected Videos to Playlist</button>
+                </form> -->
+            </li>
+        {% endfor %}
+    </ul>
+    <br>
+    <br>
+    <button type="submit">Create Course</button>
+</form>
+<a href="/save_course">Create course</a>
+{% endblock %}

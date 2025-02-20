@@ -1,0 +1,896 @@
+[2025-02-20T10:12:55.571+0530] {processor.py:161} INFO - Started process (PID=529) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:12:55.572+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:12:55.574+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:12:55.574+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:12:55.594+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:12:55.685+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:12:55.685+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:12:55.710+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:12:55.709+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:12:55.744+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.181 seconds
+[2025-02-20T10:13:26.418+0530] {processor.py:161} INFO - Started process (PID=674) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:13:26.420+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:13:26.425+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:26.424+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:13:26.449+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:13:26.528+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:26.527+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:13:26.549+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:26.549+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:13:26.619+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.214 seconds
+[2025-02-20T10:13:56.698+0530] {processor.py:161} INFO - Started process (PID=1098) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:13:56.700+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:13:56.702+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:56.702+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:13:56.724+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:13:56.793+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:56.793+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:13:56.810+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:56.809+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:13:56.843+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.152 seconds
+[2025-02-20T10:14:27.105+0530] {processor.py:161} INFO - Started process (PID=1150) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:14:27.106+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:14:27.109+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:27.108+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:14:27.127+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:14:27.188+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:27.188+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:14:27.207+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:27.207+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:14:27.237+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.139 seconds
+[2025-02-20T10:14:57.616+0530] {processor.py:161} INFO - Started process (PID=1204) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:14:57.617+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:14:57.619+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:57.619+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:14:57.632+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:14:57.681+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:57.681+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:14:57.694+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:57.693+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:14:57.718+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.108 seconds
+[2025-02-20T10:15:28.079+0530] {processor.py:161} INFO - Started process (PID=1714) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:15:28.081+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:15:28.083+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:28.083+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:15:28.097+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:15:28.149+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:28.149+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:15:28.162+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:28.162+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:15:28.192+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.119 seconds
+[2025-02-20T10:15:58.625+0530] {processor.py:161} INFO - Started process (PID=1771) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:15:58.627+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:15:58.629+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:58.628+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:15:58.641+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:15:58.710+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:58.710+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:15:58.740+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:58.739+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:15:58.776+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.157 seconds
+[2025-02-20T10:16:29.183+0530] {processor.py:161} INFO - Started process (PID=1828) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:16:29.185+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:16:29.187+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:29.186+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:16:29.201+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:16:29.260+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:29.259+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:16:29.279+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:29.278+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:16:29.325+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.149 seconds
+[2025-02-20T10:16:59.834+0530] {processor.py:161} INFO - Started process (PID=1910) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:16:59.836+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:16:59.838+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:59.838+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:16:59.852+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:16:59.902+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:59.902+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:16:59.914+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:59.914+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:16:59.942+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.115 seconds
+[2025-02-20T10:17:30.167+0530] {processor.py:161} INFO - Started process (PID=1973) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:17:30.168+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:17:30.171+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:30.170+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:17:30.184+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:17:30.235+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:30.235+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:17:30.247+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:30.247+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:17:30.272+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.112 seconds
+[2025-02-20T10:18:01.027+0530] {processor.py:161} INFO - Started process (PID=2025) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:18:01.028+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:18:01.032+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:01.031+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:18:01.050+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:18:01.109+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:01.109+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:18:01.121+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:01.121+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:18:01.155+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.136 seconds
+[2025-02-20T10:18:31.951+0530] {processor.py:161} INFO - Started process (PID=2083) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:18:31.953+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:18:31.955+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:31.955+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:18:31.970+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:18:32.034+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:32.034+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:18:32.051+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:32.050+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:18:32.084+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.140 seconds
+[2025-02-20T10:19:02.437+0530] {processor.py:161} INFO - Started process (PID=2135) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:19:02.438+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:19:02.440+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:02.440+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:19:02.458+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:19:02.508+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:02.508+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:19:02.523+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:02.523+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:19:02.556+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.125 seconds
+[2025-02-20T10:19:33.118+0530] {processor.py:161} INFO - Started process (PID=2189) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:19:33.119+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:19:33.122+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:33.121+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:19:33.135+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:19:33.184+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:33.184+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:19:33.197+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:33.196+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:19:33.224+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.112 seconds
+[2025-02-20T10:20:04.231+0530] {processor.py:161} INFO - Started process (PID=2247) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:20:04.232+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:20:04.234+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:04.234+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:20:04.249+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:20:04.303+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:04.303+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:20:04.316+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:04.316+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:20:04.344+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.121 seconds
+[2025-02-20T10:20:36.093+0530] {processor.py:161} INFO - Started process (PID=3275) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:20:36.094+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:20:36.096+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:36.096+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:20:36.112+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:20:36.162+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:36.161+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:20:36.175+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:36.174+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:20:36.203+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.117 seconds
+[2025-02-20T10:21:08.385+0530] {processor.py:161} INFO - Started process (PID=3413) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:21:08.386+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:21:08.388+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:08.388+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:21:08.407+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:21:08.469+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:08.469+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:21:08.485+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:08.484+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:21:08.515+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.137 seconds
+[2025-02-20T10:21:40.861+0530] {processor.py:161} INFO - Started process (PID=3605) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:21:40.862+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:21:40.864+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:40.864+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:21:40.877+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:21:40.929+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:40.928+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:21:40.942+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:40.942+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:21:40.969+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.115 seconds
+[2025-02-20T10:22:13.275+0530] {processor.py:161} INFO - Started process (PID=3852) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:22:13.277+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:22:13.279+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:13.279+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:22:13.298+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:22:13.347+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:13.346+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:22:13.359+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:13.359+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:22:13.388+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.126 seconds
+[2025-02-20T10:22:45.844+0530] {processor.py:161} INFO - Started process (PID=4058) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:22:45.846+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:22:45.848+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:45.848+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:22:45.862+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:22:45.913+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:45.912+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:22:45.925+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:45.925+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:22:45.949+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.111 seconds
+[2025-02-20T10:23:17.855+0530] {processor.py:161} INFO - Started process (PID=4188) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:23:17.857+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:23:17.859+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:17.859+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:23:17.875+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:23:17.929+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:17.928+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:23:17.942+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:17.941+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:23:17.966+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.117 seconds
+[2025-02-20T10:23:50.008+0530] {processor.py:161} INFO - Started process (PID=4326) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:23:50.009+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:23:50.011+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:50.011+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:23:50.025+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:23:50.109+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:50.109+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:23:50.126+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:50.125+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:23:50.155+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.154 seconds
+[2025-02-20T10:24:23.142+0530] {processor.py:161} INFO - Started process (PID=4464) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:24:23.144+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:24:23.147+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:23.147+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:24:23.162+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:24:23.226+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:23.226+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:24:23.242+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:23.242+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:24:23.274+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.143 seconds
+[2025-02-20T10:24:55.196+0530] {processor.py:161} INFO - Started process (PID=4594) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:24:55.198+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:24:55.201+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:55.200+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:24:55.214+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:24:55.266+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:55.266+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:24:55.281+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:55.281+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:24:55.310+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.121 seconds
+[2025-02-20T10:25:27.873+0530] {processor.py:161} INFO - Started process (PID=5145) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:25:27.876+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:25:27.880+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:25:27.880+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:25:27.913+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:25:28.019+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:25:28.019+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:25:28.039+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:25:28.039+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:25:28.242+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.386 seconds
+[2025-02-20T10:26:00.383+0530] {processor.py:161} INFO - Started process (PID=5340) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:26:00.384+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:26:00.386+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:00.386+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:26:00.400+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:26:00.448+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:00.448+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:26:00.461+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:00.460+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:26:00.487+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.111 seconds
+[2025-02-20T10:26:32.247+0530] {processor.py:161} INFO - Started process (PID=5472) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:26:32.249+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:26:32.251+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:32.251+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:26:32.266+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:26:32.320+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:32.320+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:26:32.336+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:32.336+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:26:32.364+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.125 seconds
+[2025-02-20T10:27:05.097+0530] {processor.py:161} INFO - Started process (PID=5615) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:27:05.099+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:27:05.101+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:05.101+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:27:05.120+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:27:05.191+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:05.191+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:27:05.216+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:05.216+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:27:05.248+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.158 seconds
+[2025-02-20T10:27:37.188+0530] {processor.py:161} INFO - Started process (PID=5848) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:27:37.189+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:27:37.191+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:37.191+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:27:37.211+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:27:37.292+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:37.292+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:27:37.309+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:37.309+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:27:37.355+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.178 seconds
+[2025-02-20T10:28:09.511+0530] {processor.py:161} INFO - Started process (PID=5979) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:28:09.513+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:28:09.524+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:09.524+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:28:09.543+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:28:09.719+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:09.719+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:28:09.731+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:09.731+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:28:09.757+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.251 seconds
+[2025-02-20T10:28:42.241+0530] {processor.py:161} INFO - Started process (PID=6117) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:28:42.242+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:28:42.247+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:42.247+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:28:42.264+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:28:42.336+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:42.335+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:28:42.561+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:42.561+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:28:42.615+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.380 seconds
+[2025-02-20T10:29:14.550+0530] {processor.py:161} INFO - Started process (PID=6253) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:29:14.552+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:29:14.556+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:14.555+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:29:14.574+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:29:14.632+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:14.631+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:29:14.650+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:14.650+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:29:14.866+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.324 seconds
+[2025-02-20T10:29:44.908+0530] {processor.py:161} INFO - Started process (PID=6383) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:29:44.910+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:29:44.912+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:44.912+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:29:44.930+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:29:45.016+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:45.015+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:29:45.032+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:45.032+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:29:46.695+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.165 seconds
+[2025-02-20T10:30:19.529+0530] {processor.py:161} INFO - Started process (PID=6751) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:30:19.533+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:30:19.539+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:19.538+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:30:19.558+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:30:19.643+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:19.643+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:30:19.666+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:19.665+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:30:19.702+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.187 seconds
+[2025-02-20T10:30:51.759+0530] {processor.py:161} INFO - Started process (PID=7179) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:30:51.762+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:30:51.766+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:51.765+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:30:51.782+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:30:51.834+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:51.834+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:30:51.851+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:51.851+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:30:51.878+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.129 seconds
+[2025-02-20T10:31:24.744+0530] {processor.py:161} INFO - Started process (PID=7321) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:31:24.747+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:31:24.750+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:24.749+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:31:24.764+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:31:24.815+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:24.814+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:31:24.828+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:24.828+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:31:24.854+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.116 seconds
+[2025-02-20T10:31:57.088+0530] {processor.py:161} INFO - Started process (PID=7458) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:31:57.090+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:31:57.092+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:57.092+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:31:57.108+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:31:57.161+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:57.161+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:31:57.173+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:57.173+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:31:57.197+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.116 seconds
+[2025-02-20T10:32:29.249+0530] {processor.py:161} INFO - Started process (PID=7596) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:32:29.252+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:32:29.254+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:32:29.254+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:32:29.268+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:32:29.318+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:32:29.318+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:32:29.332+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:32:29.332+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:32:29.362+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.125 seconds
+[2025-02-20T10:33:02.449+0530] {processor.py:161} INFO - Started process (PID=7735) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:33:02.450+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:33:02.453+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:02.452+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:33:02.466+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:33:02.516+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:02.515+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:33:02.529+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:02.529+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:33:02.558+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.117 seconds
+[2025-02-20T10:33:34.774+0530] {processor.py:161} INFO - Started process (PID=7871) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:33:34.775+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:33:34.777+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:34.777+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:33:34.795+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:33:34.852+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:34.851+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:33:34.864+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:34.864+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:33:34.888+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.123 seconds
+[2025-02-20T10:34:06.936+0530] {processor.py:161} INFO - Started process (PID=8008) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:34:06.937+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:34:06.940+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:06.940+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:34:06.956+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:34:07.010+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:07.010+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:34:07.026+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:07.026+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:34:07.058+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.129 seconds
+[2025-02-20T10:34:39.345+0530] {processor.py:161} INFO - Started process (PID=8146) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:34:39.346+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:34:39.349+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:39.349+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:34:39.364+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:34:39.416+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:39.415+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:34:39.431+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:39.431+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:34:39.461+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.124 seconds
+[2025-02-20T10:35:12.430+0530] {processor.py:161} INFO - Started process (PID=8453) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:35:12.432+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:35:12.434+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:12.434+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:35:12.453+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:35:12.523+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:12.523+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:35:12.545+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:12.544+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:35:12.586+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.166 seconds
+[2025-02-20T10:35:44.852+0530] {processor.py:161} INFO - Started process (PID=8917) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:35:44.854+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:35:44.856+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:44.856+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:35:44.874+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:35:44.926+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:44.925+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:35:44.938+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:44.937+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:35:44.966+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.121 seconds
+[2025-02-20T10:36:16.826+0530] {processor.py:161} INFO - Started process (PID=9047) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:36:16.827+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:36:16.830+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:16.829+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:36:16.844+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:36:16.895+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:16.895+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:36:16.909+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:16.909+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:36:16.936+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.117 seconds
+[2025-02-20T10:36:47.746+0530] {processor.py:161} INFO - Started process (PID=9184) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:36:47.747+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:36:47.749+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:47.749+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:36:47.767+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:36:47.828+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:47.827+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:36:47.840+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:47.840+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:36:47.870+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.131 seconds
+[2025-02-20T10:37:21.946+0530] {processor.py:161} INFO - Started process (PID=9321) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:37:21.947+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:37:21.950+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:21.949+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:37:21.963+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:37:22.013+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:22.013+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:37:22.028+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:22.027+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:37:22.059+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.121 seconds
+[2025-02-20T10:37:53.862+0530] {processor.py:161} INFO - Started process (PID=9459) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:37:53.864+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:37:53.866+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:53.866+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:37:53.882+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:37:53.931+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:53.931+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:37:53.943+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:53.943+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:37:53.969+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.113 seconds
+[2025-02-20T10:38:26.632+0530] {processor.py:161} INFO - Started process (PID=9595) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:38:26.634+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:38:26.636+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:26.636+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:38:26.651+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:38:26.710+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:26.709+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:38:26.723+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:26.723+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:38:26.747+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.122 seconds
+[2025-02-20T10:38:58.594+0530] {processor.py:161} INFO - Started process (PID=9735) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:38:58.595+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:38:58.598+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:58.597+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:38:58.611+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:38:58.668+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:58.668+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:38:58.681+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:58.681+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:38:58.708+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.122 seconds
+[2025-02-20T10:46:00.706+0530] {processor.py:161} INFO - Started process (PID=9839) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:46:00.707+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:46:00.710+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:00.709+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:46:00.729+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:46:00.785+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:00.785+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:46:00.801+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:00.801+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:46:00.832+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.133 seconds
+[2025-02-20T10:46:31.465+0530] {processor.py:161} INFO - Started process (PID=10440) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:46:31.467+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:46:31.470+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:31.469+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:46:31.489+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:46:31.549+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:31.548+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:46:31.563+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:31.563+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:46:31.599+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.143 seconds
+[2025-02-20T10:47:02.280+0530] {processor.py:161} INFO - Started process (PID=11063) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:47:02.281+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:47:02.284+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:02.283+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:47:02.298+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:47:02.350+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:02.350+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:47:02.363+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:02.363+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:47:02.391+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.117 seconds
+[2025-02-20T10:47:33.088+0530] {processor.py:161} INFO - Started process (PID=11230) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:47:33.089+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:47:33.091+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:33.091+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:47:33.111+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:47:33.175+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:33.175+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:47:33.188+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:33.188+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:47:33.213+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.133 seconds
+[2025-02-20T10:48:03.909+0530] {processor.py:161} INFO - Started process (PID=11361) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:48:03.911+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:48:03.913+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:03.913+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:48:03.927+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:48:03.977+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:03.977+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:48:03.990+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:03.990+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:48:04.014+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.113 seconds
+[2025-02-20T10:48:34.876+0530] {processor.py:161} INFO - Started process (PID=11497) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:48:34.877+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:48:34.879+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:34.879+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:48:34.894+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:48:34.945+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:34.945+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:48:34.960+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:34.960+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:48:34.988+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.120 seconds
+[2025-02-20T10:49:05.493+0530] {processor.py:161} INFO - Started process (PID=11629) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:49:05.495+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:49:05.497+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:05.497+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:49:05.511+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:49:05.564+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:05.564+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:49:05.577+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:05.577+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:49:05.601+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.114 seconds
+[2025-02-20T10:49:37.506+0530] {processor.py:161} INFO - Started process (PID=11767) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:49:37.507+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:49:37.509+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:37.509+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:49:37.523+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:49:37.575+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:37.575+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:49:37.588+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:37.587+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:49:37.613+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.114 seconds
+[2025-02-20T10:50:08.060+0530] {processor.py:161} INFO - Started process (PID=12035) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:50:08.062+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:50:08.066+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:08.065+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:50:08.091+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:50:08.197+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:08.197+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:50:08.225+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:08.225+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:50:08.264+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.214 seconds
+[2025-02-20T10:50:38.476+0530] {processor.py:161} INFO - Started process (PID=12487) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:50:38.486+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:50:38.489+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:38.489+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:50:38.513+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:50:38.600+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:38.599+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:50:38.623+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:38.622+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:50:38.658+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.198 seconds
+[2025-02-20T10:51:09.244+0530] {processor.py:161} INFO - Started process (PID=12619) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:51:09.245+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:51:09.248+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:09.247+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:51:09.263+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:51:09.317+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:09.316+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:51:09.330+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:09.330+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:51:09.358+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.122 seconds
+[2025-02-20T10:51:40.082+0530] {processor.py:161} INFO - Started process (PID=12749) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:51:40.084+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:51:40.086+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:40.086+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:51:40.100+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:51:40.151+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:40.151+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:51:40.163+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:40.163+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:51:40.186+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.111 seconds
+[2025-02-20T10:52:10.611+0530] {processor.py:161} INFO - Started process (PID=12879) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:52:10.613+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:52:10.616+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:10.615+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:52:10.635+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:52:10.690+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:10.690+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:52:10.709+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:10.708+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:52:10.745+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.140 seconds
+[2025-02-20T10:52:40.988+0530] {processor.py:161} INFO - Started process (PID=13009) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:52:40.990+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:52:40.992+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:40.992+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:52:41.007+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:52:41.055+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:41.055+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:52:41.068+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:41.068+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:52:41.094+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.112 seconds
+[2025-02-20T10:53:11.404+0530] {processor.py:161} INFO - Started process (PID=13139) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:53:11.405+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:53:11.407+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:11.407+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:53:11.422+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:53:11.476+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:11.476+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:53:11.493+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:11.493+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:53:11.519+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.123 seconds
+[2025-02-20T10:53:41.750+0530] {processor.py:161} INFO - Started process (PID=13270) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:53:41.753+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:53:41.757+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:41.756+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:53:41.772+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:53:41.821+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:41.821+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:53:41.835+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:41.834+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:53:41.870+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.131 seconds
+[2025-02-20T10:54:11.910+0530] {processor.py:161} INFO - Started process (PID=13397) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:54:11.911+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:54:11.914+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:11.914+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:54:11.929+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:54:11.991+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:11.990+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:54:12.005+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:12.004+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:54:12.034+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.131 seconds
+[2025-02-20T10:54:42.214+0530] {processor.py:161} INFO - Started process (PID=13533) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:54:42.216+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:54:42.218+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:42.218+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:54:42.232+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:54:42.281+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:42.281+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:54:42.294+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:42.294+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:54:42.340+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.132 seconds
+[2025-02-20T10:55:15.301+0530] {processor.py:161} INFO - Started process (PID=13844) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:55:15.303+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:55:15.309+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:15.308+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:55:15.331+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:55:15.416+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:15.416+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:55:15.433+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:15.433+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:55:15.461+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.175 seconds
+[2025-02-20T10:55:45.600+0530] {processor.py:161} INFO - Started process (PID=14349) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:55:45.601+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:55:45.604+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:45.604+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:55:45.619+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:55:45.672+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:45.672+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:55:45.685+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:45.685+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:55:45.714+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.121 seconds
+[2025-02-20T10:56:15.999+0530] {processor.py:161} INFO - Started process (PID=14518) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:56:16.000+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:56:16.002+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:16.002+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:56:16.016+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:56:16.065+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:16.065+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:56:16.078+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:16.078+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:56:16.105+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.113 seconds
+[2025-02-20T10:56:47.149+0530] {processor.py:161} INFO - Started process (PID=14687) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:56:47.151+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:56:47.154+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:47.154+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:56:47.177+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:56:47.234+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:47.234+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:56:47.247+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:47.247+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:56:47.273+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.134 seconds
+[2025-02-20T10:57:17.474+0530] {processor.py:161} INFO - Started process (PID=14853) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:57:17.475+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:57:17.478+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:17.478+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:57:17.493+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:57:17.551+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:17.550+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:57:17.566+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:17.566+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:57:17.593+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.126 seconds
+[2025-02-20T10:57:47.650+0530] {processor.py:161} INFO - Started process (PID=15004) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:57:47.651+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:57:47.654+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:47.653+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:57:47.672+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:57:47.729+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:47.729+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:57:47.744+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:47.744+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:57:47.772+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.136 seconds
+[2025-02-20T10:58:18.427+0530] {processor.py:161} INFO - Started process (PID=15134) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:58:18.428+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:58:18.431+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:18.431+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:58:18.447+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:58:18.496+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:18.495+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:58:18.509+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:18.509+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:58:18.536+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.116 seconds
+[2025-02-20T10:58:48.933+0530] {processor.py:161} INFO - Started process (PID=15288) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:58:48.934+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:58:48.936+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:48.936+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:58:48.955+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:58:49.016+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:49.016+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:58:49.030+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:49.029+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:58:49.053+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.126 seconds
+[2025-02-20T10:59:19.800+0530] {processor.py:161} INFO - Started process (PID=15420) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:59:19.801+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:59:19.805+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:19.804+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:59:19.825+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:59:19.919+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:19.919+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:59:19.940+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:19.939+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:59:19.985+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.194 seconds
+[2025-02-20T10:59:50.831+0530] {processor.py:161} INFO - Started process (PID=15592) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:59:50.832+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T10:59:50.834+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:50.834+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:59:50.848+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T10:59:50.898+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:50.898+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:59:50.910+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:50.910+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T10:59:50.936+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.112 seconds
+[2025-02-20T11:00:22.314+0530] {processor.py:161} INFO - Started process (PID=16071) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:00:22.316+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:00:22.319+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:22.319+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:00:22.348+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:00:22.458+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:22.458+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:00:22.489+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:22.488+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:00:22.568+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.267 seconds
+[2025-02-20T11:00:54.370+0530] {processor.py:161} INFO - Started process (PID=16412) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:00:54.377+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:00:54.386+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:54.385+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:00:54.423+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:00:54.545+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:54.545+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:00:54.570+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:54.570+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:00:54.613+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.264 seconds
+[2025-02-20T11:01:26.715+0530] {processor.py:161} INFO - Started process (PID=16552) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:01:26.716+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:01:26.718+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:26.718+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:01:26.732+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:01:26.783+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:26.783+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:01:26.796+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:26.796+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:01:26.820+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.112 seconds
+[2025-02-20T11:01:58.675+0530] {processor.py:161} INFO - Started process (PID=16765) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:01:58.677+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:01:58.679+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:58.679+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:01:58.696+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:01:58.751+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:58.751+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:01:58.765+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:58.764+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:01:58.796+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.127 seconds
+[2025-02-20T11:02:31.388+0530] {processor.py:161} INFO - Started process (PID=16946) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:02:31.390+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:02:31.392+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:31.392+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:02:31.409+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:02:31.477+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:31.476+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:02:31.491+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:31.491+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:02:31.520+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.139 seconds
+[2025-02-20T11:03:03.550+0530] {processor.py:161} INFO - Started process (PID=17156) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:03:03.552+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:03:03.555+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:03.555+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:03:03.571+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:03:03.624+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:03.624+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:03:03.637+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:03.637+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:03:03.666+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.126 seconds
+[2025-02-20T11:03:35.930+0530] {processor.py:161} INFO - Started process (PID=17375) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:03:35.931+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:03:35.934+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:35.934+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:03:35.951+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:03:36.021+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:36.020+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:03:36.040+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:36.040+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:03:36.068+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.145 seconds
+[2025-02-20T11:04:08.162+0530] {processor.py:161} INFO - Started process (PID=17585) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:04:08.164+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:04:08.166+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:08.166+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:04:08.181+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:04:08.275+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:08.275+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:04:08.295+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:08.295+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:04:08.336+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.183 seconds
+[2025-02-20T11:04:40.821+0530] {processor.py:161} INFO - Started process (PID=17781) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:04:40.822+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:04:40.825+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:40.825+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:04:40.843+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:04:40.902+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:40.901+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:04:40.916+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:40.916+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:04:40.945+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.134 seconds
+[2025-02-20T11:05:13.238+0530] {processor.py:161} INFO - Started process (PID=18141) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:05:13.242+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:05:13.248+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:13.247+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:05:13.286+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:05:13.370+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:13.370+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:05:13.387+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:13.387+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:05:13.424+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.205 seconds
+[2025-02-20T11:05:44.650+0530] {processor.py:161} INFO - Started process (PID=18676) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:05:44.651+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:05:44.654+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:44.653+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:05:44.669+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:05:44.726+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:44.726+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:05:44.740+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:44.740+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:05:44.764+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.122 seconds
+[2025-02-20T11:06:17.268+0530] {processor.py:161} INFO - Started process (PID=18873) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:06:17.269+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:06:17.272+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:17.271+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:06:17.287+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:06:17.336+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:17.336+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:06:17.348+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:17.347+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:06:17.374+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.113 seconds
+[2025-02-20T11:06:49.129+0530] {processor.py:161} INFO - Started process (PID=19013) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:06:49.130+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:06:49.133+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:49.132+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:06:49.149+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:06:49.211+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:49.211+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:06:49.226+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:49.226+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:06:49.258+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.138 seconds
+[2025-02-20T11:07:21.490+0530] {processor.py:161} INFO - Started process (PID=19185) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:07:21.491+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:07:21.493+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:21.493+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:07:21.508+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:07:21.569+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:21.569+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:07:21.583+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:21.583+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:07:21.608+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.125 seconds
+[2025-02-20T11:07:53.551+0530] {processor.py:161} INFO - Started process (PID=19317) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:07:53.552+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:07:53.555+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:53.555+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:07:53.577+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:07:53.637+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:53.636+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:07:53.655+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:53.655+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:07:53.685+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.141 seconds
+[2025-02-20T11:08:26.458+0530] {processor.py:161} INFO - Started process (PID=19461) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:08:26.460+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:08:26.463+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:26.462+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:08:26.477+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:08:26.530+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:26.530+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:08:26.542+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:26.542+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:08:26.568+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.118 seconds
+[2025-02-20T11:08:58.894+0530] {processor.py:161} INFO - Started process (PID=19601) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:08:58.895+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:08:58.898+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:58.897+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:08:58.915+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:08:58.984+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:58.983+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:08:59.003+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:59.003+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:08:59.036+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.152 seconds
+[2025-02-20T11:09:31.484+0530] {processor.py:161} INFO - Started process (PID=19813) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:09:31.485+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:09:31.487+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:31.487+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:09:31.507+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:09:31.566+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:31.566+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:09:31.580+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:31.580+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:09:31.610+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.134 seconds
+[2025-02-20T11:10:03.504+0530] {processor.py:161} INFO - Started process (PID=19944) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:10:03.506+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:10:03.508+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:03.508+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:10:03.523+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:10:03.588+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:03.588+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:10:03.602+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:03.602+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:10:03.630+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.134 seconds
+[2025-02-20T11:10:33.864+0530] {processor.py:161} INFO - Started process (PID=20574) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:10:33.865+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:10:33.868+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:33.868+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:10:33.889+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:10:33.954+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:33.954+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:10:33.970+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:33.970+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:10:34.000+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.148 seconds
+[2025-02-20T11:11:04.183+0530] {processor.py:161} INFO - Started process (PID=20800) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:11:04.185+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:11:04.187+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:04.187+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:11:04.202+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:11:04.251+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:04.251+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:11:04.263+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:04.263+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:11:04.291+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.114 seconds
+[2025-02-20T11:11:34.858+0530] {processor.py:161} INFO - Started process (PID=20936) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:11:34.860+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:11:34.862+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:34.862+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:11:34.877+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:11:34.943+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:34.942+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:11:34.958+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:34.958+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:11:34.988+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.138 seconds
+[2025-02-20T11:12:05.151+0530] {processor.py:161} INFO - Started process (PID=21069) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:12:05.152+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:12:05.155+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:05.154+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:12:05.169+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:12:05.219+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:05.218+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:12:05.231+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:05.231+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:12:05.256+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.112 seconds
+[2025-02-20T11:12:35.717+0530] {processor.py:161} INFO - Started process (PID=21199) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:12:35.718+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:12:35.720+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:35.720+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:12:35.737+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:12:35.785+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:35.785+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:12:35.798+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:35.798+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:12:35.823+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.113 seconds
+[2025-02-20T11:13:06.634+0530] {processor.py:161} INFO - Started process (PID=21337) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:13:06.635+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:13:06.638+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:06.638+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:13:06.655+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:13:06.707+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:06.707+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:13:06.720+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:06.720+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:13:06.744+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.124 seconds
+[2025-02-20T11:13:37.625+0530] {processor.py:161} INFO - Started process (PID=21469) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:13:37.627+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:13:37.629+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:37.629+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:13:37.643+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:13:37.695+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:37.695+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:13:37.708+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:37.708+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:13:37.732+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.117 seconds
+[2025-02-20T11:14:08.276+0530] {processor.py:161} INFO - Started process (PID=21600) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:14:08.277+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:14:08.280+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:08.279+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:14:08.295+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:14:08.349+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:08.349+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:14:08.363+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:08.362+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:14:08.388+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.119 seconds
+[2025-02-20T11:14:38.924+0530] {processor.py:161} INFO - Started process (PID=21750) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:14:38.926+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:14:38.928+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:38.928+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:14:38.942+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:14:38.993+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:38.993+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:14:39.007+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:39.006+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:14:39.033+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.115 seconds
+[2025-02-20T11:15:10.872+0530] {processor.py:161} INFO - Started process (PID=22056) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:15:10.877+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:15:10.882+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:10.882+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:15:10.908+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:15:11.017+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:11.016+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:15:11.042+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:11.042+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:15:11.090+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.228 seconds
+[2025-02-20T11:15:41.728+0530] {processor.py:161} INFO - Started process (PID=22577) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:15:41.730+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:15:41.734+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:41.734+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:15:41.750+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:15:41.801+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:41.801+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:15:41.816+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:41.816+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:15:41.844+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.125 seconds
+[2025-02-20T11:16:12.830+0530] {processor.py:161} INFO - Started process (PID=22744) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:16:12.831+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:16:12.834+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:12.834+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:16:12.854+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:16:12.913+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:12.913+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:16:12.927+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:12.927+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:16:12.953+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.129 seconds
+[2025-02-20T11:16:43.125+0530] {processor.py:161} INFO - Started process (PID=22921) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:16:43.127+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:16:43.137+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:43.137+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:16:43.154+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:16:43.213+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:43.213+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:16:43.226+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:43.225+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:16:43.253+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.143 seconds
+[2025-02-20T11:17:13.332+0530] {processor.py:161} INFO - Started process (PID=23056) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:17:13.335+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:17:13.338+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:13.338+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:17:13.356+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:17:13.418+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:13.418+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:17:13.432+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:13.431+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:17:13.462+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.139 seconds
+[2025-02-20T11:17:44.219+0530] {processor.py:161} INFO - Started process (PID=23233) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:17:44.222+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:17:44.224+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:44.224+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:17:44.240+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:17:44.293+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:44.293+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:17:44.309+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:44.309+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:17:44.334+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.125 seconds
+[2025-02-20T11:18:14.699+0530] {processor.py:161} INFO - Started process (PID=23365) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:18:14.703+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:18:14.706+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:14.705+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:18:14.721+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:18:14.771+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:14.771+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:18:14.787+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:14.787+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:18:14.838+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.147 seconds
+[2025-02-20T11:18:45.439+0530] {processor.py:161} INFO - Started process (PID=23501) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:18:45.449+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:18:45.458+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:45.458+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:18:45.474+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:18:45.534+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:45.534+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:18:45.549+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:45.549+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:18:45.577+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.154 seconds
+[2025-02-20T11:19:16.068+0530] {processor.py:161} INFO - Started process (PID=23631) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:19:16.070+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:19:16.073+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:16.073+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:19:16.088+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:19:16.139+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:16.139+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:19:16.156+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:16.156+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:19:16.186+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.125 seconds
+[2025-02-20T11:19:46.560+0530] {processor.py:161} INFO - Started process (PID=23761) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:19:46.562+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:19:46.565+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:46.564+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:19:46.588+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:19:46.649+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:46.648+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:19:46.663+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:46.662+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:19:46.692+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.149 seconds
+[2025-02-20T11:20:17.962+0530] {processor.py:161} INFO - Started process (PID=24076) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:20:17.964+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:20:17.968+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:17.967+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:20:17.991+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:20:18.076+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:18.076+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:20:18.103+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:18.103+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:20:18.149+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.195 seconds
+[2025-02-20T11:20:50.843+0530] {processor.py:161} INFO - Started process (PID=24503) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:20:50.844+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:20:50.846+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:50.846+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:20:50.861+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:20:50.910+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:50.910+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:20:50.922+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:50.922+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:20:50.947+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.111 seconds
+[2025-02-20T11:21:23.581+0530] {processor.py:161} INFO - Started process (PID=24723) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:21:23.583+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:21:23.585+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:23.585+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:21:23.602+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:21:23.664+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:23.664+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:21:23.679+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:23.679+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:21:23.710+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.138 seconds
+[2025-02-20T11:21:55.516+0530] {processor.py:161} INFO - Started process (PID=24939) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:21:55.517+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:21:55.520+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:55.519+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:21:55.535+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:21:55.591+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:55.591+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:21:55.604+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:55.604+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:21:55.638+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.128 seconds
+[2025-02-20T11:22:27.394+0530] {processor.py:161} INFO - Started process (PID=25075) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:22:27.395+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:22:27.397+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:27.397+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:22:27.417+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:22:27.484+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:27.483+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:22:27.500+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:27.499+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:22:27.523+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.140 seconds
+[2025-02-20T11:23:00.385+0530] {processor.py:161} INFO - Started process (PID=25211) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:23:00.387+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:23:00.391+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:00.390+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:23:00.406+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:23:00.460+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:00.460+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:23:00.475+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:00.475+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:23:00.506+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.131 seconds
+[2025-02-20T11:23:32.704+0530] {processor.py:161} INFO - Started process (PID=25355) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:23:32.705+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:23:32.711+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:32.710+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:23:32.734+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:23:32.829+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:32.829+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:23:32.846+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:32.846+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:23:32.876+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.181 seconds
+[2025-02-20T11:24:05.024+0530] {processor.py:161} INFO - Started process (PID=25491) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:24:05.025+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:24:05.027+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:05.027+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:24:05.045+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:24:05.095+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:05.095+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:24:05.107+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:05.107+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:24:05.134+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.117 seconds
+[2025-02-20T11:24:37.315+0530] {processor.py:161} INFO - Started process (PID=25633) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:24:37.316+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:24:37.319+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:37.318+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:24:37.332+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:24:37.383+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:37.383+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:24:37.395+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:37.395+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:24:37.418+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.109 seconds
+[2025-02-20T11:25:09.039+0530] {processor.py:161} INFO - Started process (PID=25915) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:25:09.040+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:25:09.043+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:09.043+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:25:09.063+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:25:09.139+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:09.138+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:25:09.154+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:09.154+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:25:09.192+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.163 seconds
+[2025-02-20T11:25:39.412+0530] {processor.py:161} INFO - Started process (PID=26346) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:25:39.414+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:25:39.416+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:39.416+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:25:39.430+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:25:39.500+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:39.499+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:25:39.160+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:39.159+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:25:39.188+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.263 seconds
+[2025-02-20T11:26:09.821+0530] {processor.py:161} INFO - Started process (PID=26404) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:26:09.822+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T11:26:09.824+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:26:09.824+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:26:09.842+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T11:26:09.904+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:26:09.904+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:26:09.919+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:26:09.918+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T11:26:10.070+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.257 seconds

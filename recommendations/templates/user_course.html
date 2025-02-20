@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Your Created Courses</h2>
+
+{% if courses %}
+    <ul>
+        {% for course in courses %}
+            <li>
+                <strong>Course Name:</strong> {{ course.course_name }}<br>
+                <strong>Videos:</strong>
+                <ul>
+                    {% for v in course.video_id %}
+                        <li><a href="custom_video/{{ v.id }}" target="_self">
+                            <img src="{{ v.thumbnail }}" width="200">
+                        </a></li>
+                        <br>
+                    {% empty %}
+                        <li>No videos added.</li>
+                    {% endfor %}
+                </ul>
+                <br>
+                <strong>Playlists:</strong>
+                <ul>
+                    {% for p in course.playlist_id %}
+                        <li><a href="c_playlist_video/{{ p.id }}" target="_self">
+                            <img src="{{ p.thumbnail }}" width="200">
+                        </a></li>
+                        <br>
+                    {% empty %}
+                        <li>No playlists added.</li>
+                    {% endfor %}
+                </ul>
+            </li>
+        {% endfor %}
+    </ul>
+{% else %}
+    <p>You have not created any courses yet.</p>
+{% endif %}
+{% endblock %}

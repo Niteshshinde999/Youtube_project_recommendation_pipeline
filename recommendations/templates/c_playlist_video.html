@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block content %}
+<h3>Videos:</h3>
+        <ul>
+            {% for video in playlist_videos %}
+                <li>
+                    <!-- <strong>{{ video.title }}</strong><br> -->
+                    {{ video.description }}
+                    <a href="/custom_video/{{ video.id }}" target="_self">
+                        <img src="{{ video.thumbnail }}" width="200">
+                    </a>
+                    <br><strong>{{ video.title }}</strong><br>          
+                </li>
+                <br>
+            {% endfor %}
+        </ul>
+
+{% endblock %}

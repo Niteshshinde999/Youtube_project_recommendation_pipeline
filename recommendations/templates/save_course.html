@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% block content %}
+
+{% if course.course_name %}
+    <ul>
+        <li>
+            <strong>Course Name:</strong> {{ course.course_name }}<br>
+
+            <strong>Videos:</strong>
+            <ul>
+                {% for v in course.videos %}
+                    <li>
+                        <a href="/custom_video/{{ v.id }}" target="_self">
+                            <img src="{{ v.thumbnail }}" alt="Video Thumbnail" width="200">
+                        </a>
+                    </li><br>
+                {% empty %}
+                    <li>No videos added.</li>
+                {% endfor %}
+            </ul>
+
+            <strong>Playlists:</strong>
+            <ul>
+                {% for p in course.playlists %}
+                    <li>
+                        <a href="/c_playlist_video/{{ p.id }}" target="_self">
+                            <img src="{{ p.thumbnail }}" alt="Playlist Thumbnail" width="200">
+                        </a>
+                    </li><br>
+                {% empty %}
+                    <li>No playlists added.</li>
+                {% endfor %}
+            </ul>
+        </li>
+    </ul>
+{% else %}
+    <p>No courses found in the session.</p>
+{% endif %}
+<form method="POST">
+    {% csrf_token %}
+    <button type="submit">Create course</button>
+</form>
+{% endblock %}

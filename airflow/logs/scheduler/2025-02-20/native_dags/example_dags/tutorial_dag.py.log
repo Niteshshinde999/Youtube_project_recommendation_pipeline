@@ -1,0 +1,896 @@
+[2025-02-20T10:12:57.043+0530] {processor.py:161} INFO - Started process (PID=550) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:12:57.044+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:12:57.046+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:12:57.046+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:12:57.051+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:12:57.078+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:12:57.078+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:12:57.090+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:12:57.090+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:12:57.118+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.080 seconds
+[2025-02-20T10:13:28.357+0530] {processor.py:161} INFO - Started process (PID=753) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:13:28.358+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:13:28.360+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:28.360+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:13:28.366+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:13:28.399+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:28.398+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:13:28.415+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:28.415+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:13:28.451+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.102 seconds
+[2025-02-20T10:13:58.585+0530] {processor.py:161} INFO - Started process (PID=1119) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:13:58.586+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:13:58.588+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:58.588+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:13:58.593+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:13:58.628+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:58.628+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:13:58.643+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:58.643+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:13:58.675+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.096 seconds
+[2025-02-20T10:14:29.263+0530] {processor.py:161} INFO - Started process (PID=1171) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:14:29.265+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:14:29.267+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:29.267+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:14:29.273+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:14:29.309+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:29.309+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:14:29.324+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:29.324+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:14:29.362+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.108 seconds
+[2025-02-20T10:15:00.055+0530] {processor.py:161} INFO - Started process (PID=1225) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:15:00.057+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:15:00.059+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:00.059+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:15:00.064+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:15:00.094+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:00.094+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:15:00.106+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:00.106+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:15:00.132+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.083 seconds
+[2025-02-20T10:15:30.686+0530] {processor.py:161} INFO - Started process (PID=1735) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:15:30.687+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:15:30.690+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:30.689+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:15:30.695+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:15:30.721+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:30.720+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:15:30.733+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:30.733+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:15:30.758+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.078 seconds
+[2025-02-20T10:16:01.243+0530] {processor.py:161} INFO - Started process (PID=1792) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:16:01.244+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:16:01.246+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:01.246+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:16:01.251+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:16:01.278+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:01.278+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:16:01.290+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:01.290+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:16:01.315+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.078 seconds
+[2025-02-20T10:16:31.817+0530] {processor.py:161} INFO - Started process (PID=1849) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:16:31.818+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:16:31.821+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:31.821+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:16:31.827+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:16:31.856+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:31.856+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:16:31.870+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:31.870+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:16:31.897+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.087 seconds
+[2025-02-20T10:17:02.250+0530] {processor.py:161} INFO - Started process (PID=1931) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:17:02.251+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:17:02.253+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:02.253+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:17:02.259+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:17:02.287+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:02.287+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:17:02.299+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:02.299+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:17:02.324+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.081 seconds
+[2025-02-20T10:17:32.562+0530] {processor.py:161} INFO - Started process (PID=1994) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:17:32.563+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:17:32.567+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:32.567+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:17:32.572+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:17:32.600+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:32.600+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:17:32.613+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:32.613+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:17:32.641+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.087 seconds
+[2025-02-20T10:18:02.798+0530] {processor.py:161} INFO - Started process (PID=2046) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:18:02.800+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:18:02.803+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:02.801+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:18:02.808+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:18:02.836+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:02.836+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:18:02.849+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:02.849+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:18:02.876+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.084 seconds
+[2025-02-20T10:18:33.407+0530] {processor.py:161} INFO - Started process (PID=2104) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:18:33.408+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:18:33.410+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:33.410+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:18:33.416+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:18:33.454+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:33.453+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:18:33.470+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:33.470+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:18:33.496+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.095 seconds
+[2025-02-20T10:19:03.768+0530] {processor.py:161} INFO - Started process (PID=2156) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:19:03.770+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:19:03.772+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:03.771+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:19:03.778+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:19:03.806+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:03.806+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:19:03.819+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:03.819+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:19:03.846+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.084 seconds
+[2025-02-20T10:19:35.047+0530] {processor.py:161} INFO - Started process (PID=2210) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:19:35.049+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:19:35.051+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:35.050+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:19:35.056+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:19:35.085+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:35.084+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:19:35.098+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:35.098+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:19:35.129+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.090 seconds
+[2025-02-20T10:20:06.207+0530] {processor.py:161} INFO - Started process (PID=2358) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:20:06.209+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:20:06.211+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:06.210+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:20:06.216+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:20:06.244+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:06.243+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:20:06.265+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:06.264+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:20:06.310+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.110 seconds
+[2025-02-20T10:20:37.925+0530] {processor.py:161} INFO - Started process (PID=3296) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:20:37.926+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:20:37.929+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:37.929+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:20:37.936+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:20:37.974+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:37.974+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:20:38.017+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:38.017+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:20:38.057+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.140 seconds
+[2025-02-20T10:21:09.908+0530] {processor.py:161} INFO - Started process (PID=3436) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:21:09.909+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:21:09.912+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:09.911+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:21:09.917+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:21:09.949+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:09.949+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:21:09.969+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:09.968+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:21:10.007+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.108 seconds
+[2025-02-20T10:21:42.274+0530] {processor.py:161} INFO - Started process (PID=3632) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:21:42.276+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:21:42.278+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:42.278+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:21:42.284+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:21:42.311+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:42.311+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:21:42.324+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:42.324+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:21:42.360+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.092 seconds
+[2025-02-20T10:22:14.527+0530] {processor.py:161} INFO - Started process (PID=3890) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:22:14.529+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:22:14.531+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:14.530+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:22:14.537+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:22:14.570+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:14.569+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:22:14.584+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:14.584+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:22:14.613+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.093 seconds
+[2025-02-20T10:22:47.214+0530] {processor.py:161} INFO - Started process (PID=4079) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:22:47.216+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:22:47.218+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:47.218+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:22:47.225+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:22:47.273+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:47.272+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:22:47.298+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:47.297+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:22:47.340+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.134 seconds
+[2025-02-20T10:23:19.213+0530] {processor.py:161} INFO - Started process (PID=4209) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:23:19.214+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:23:19.218+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:19.218+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:23:19.224+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:23:19.253+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:19.253+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:23:19.267+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:19.267+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:23:19.295+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.089 seconds
+[2025-02-20T10:23:51.480+0530] {processor.py:161} INFO - Started process (PID=4353) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:23:51.481+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:23:51.483+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:51.483+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:23:51.489+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:23:51.515+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:51.515+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:23:51.527+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:51.527+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:23:51.553+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.079 seconds
+[2025-02-20T10:24:24.741+0530] {processor.py:161} INFO - Started process (PID=4485) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:24:24.742+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:24:24.745+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:24.744+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:24:24.752+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:24:24.786+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:24.786+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:24:24.801+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:24.801+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:24:24.830+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.096 seconds
+[2025-02-20T10:24:56.660+0530] {processor.py:161} INFO - Started process (PID=4621) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:24:56.662+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:24:56.665+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:56.664+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:24:56.671+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:24:56.702+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:56.702+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:24:56.717+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:56.716+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:24:56.745+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.093 seconds
+[2025-02-20T10:25:30.336+0530] {processor.py:161} INFO - Started process (PID=5223) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:25:30.338+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:25:30.340+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:25:30.340+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:25:30.346+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:25:30.377+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:25:30.377+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:25:30.396+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:25:30.396+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:25:30.432+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.102 seconds
+[2025-02-20T10:26:02.428+0530] {processor.py:161} INFO - Started process (PID=5364) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:26:02.429+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:26:02.431+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:02.431+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:26:02.437+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:26:02.465+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:02.465+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:26:02.478+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:02.478+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:26:02.505+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.085 seconds
+[2025-02-20T10:26:34.098+0530] {processor.py:161} INFO - Started process (PID=5500) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:26:34.100+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:26:34.102+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:34.102+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:26:34.118+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:26:34.193+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:34.193+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:26:34.206+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:34.205+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:26:34.231+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.148 seconds
+[2025-02-20T10:27:06.726+0530] {processor.py:161} INFO - Started process (PID=5642) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:27:06.728+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:27:06.731+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:06.730+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:27:06.738+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:27:06.766+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:06.765+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:27:06.780+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:06.780+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:27:06.805+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.086 seconds
+[2025-02-20T10:27:38.654+0530] {processor.py:161} INFO - Started process (PID=5869) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:27:38.655+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:27:38.657+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:38.657+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:27:38.664+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:27:38.691+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:38.691+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:27:38.704+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:38.704+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:27:38.729+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.081 seconds
+[2025-02-20T10:28:11.493+0530] {processor.py:161} INFO - Started process (PID=6006) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:28:11.494+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:28:11.496+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:11.496+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:28:11.501+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:28:11.527+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:11.527+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:28:11.539+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:11.539+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:28:11.563+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.077 seconds
+[2025-02-20T10:28:46.149+0530] {processor.py:161} INFO - Started process (PID=6150) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:28:46.151+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:28:46.153+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:46.153+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:28:46.159+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:28:46.321+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:46.321+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:28:46.334+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:46.333+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:28:46.360+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.219 seconds
+[2025-02-20T10:29:17.694+0530] {processor.py:161} INFO - Started process (PID=6280) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:29:17.696+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:29:17.698+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:17.698+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:29:17.706+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:29:17.740+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:17.740+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:29:17.870+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:17.869+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:29:17.898+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.217 seconds
+[2025-02-20T10:29:48.795+0530] {processor.py:161} INFO - Started process (PID=6410) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:29:48.797+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:29:48.799+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:48.798+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:29:48.804+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:29:48.844+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:48.844+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:29:48.858+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:48.858+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:29:48.890+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.104 seconds
+[2025-02-20T10:30:21.552+0530] {processor.py:161} INFO - Started process (PID=6803) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:30:21.554+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:30:21.556+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:21.556+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:30:21.564+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:30:21.605+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:21.605+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:30:21.624+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:21.624+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:30:21.663+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.119 seconds
+[2025-02-20T10:30:53.030+0530] {processor.py:161} INFO - Started process (PID=7206) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:30:53.032+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:30:53.035+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:53.035+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:30:53.040+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:30:53.070+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:53.069+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:30:53.083+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:53.082+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:30:53.108+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.086 seconds
+[2025-02-20T10:31:26.179+0530] {processor.py:161} INFO - Started process (PID=7348) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:31:26.180+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:31:26.182+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:26.182+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:31:26.187+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:31:26.226+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:26.226+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:31:26.239+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:26.239+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:31:26.266+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.096 seconds
+[2025-02-20T10:31:58.762+0530] {processor.py:161} INFO - Started process (PID=7485) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:31:58.763+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:31:58.766+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:58.766+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:31:58.771+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:31:58.801+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:58.801+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:31:58.814+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:58.814+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:31:58.840+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.085 seconds
+[2025-02-20T10:32:30.899+0530] {processor.py:161} INFO - Started process (PID=7620) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:32:30.900+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:32:30.903+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:32:30.903+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:32:30.908+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:32:30.939+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:32:30.939+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:32:30.953+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:32:30.953+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:32:30.984+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.092 seconds
+[2025-02-20T10:33:03.932+0530] {processor.py:161} INFO - Started process (PID=7756) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:33:03.933+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:33:03.936+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:03.935+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:33:03.942+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:33:03.973+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:03.973+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:33:03.988+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:03.988+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:33:04.015+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.090 seconds
+[2025-02-20T10:33:36.167+0530] {processor.py:161} INFO - Started process (PID=7892) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:33:36.168+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:33:36.170+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:36.170+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:33:36.177+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:33:36.206+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:36.206+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:33:36.220+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:36.220+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:33:36.254+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.094 seconds
+[2025-02-20T10:34:08.715+0530] {processor.py:161} INFO - Started process (PID=8029) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:34:08.716+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:34:08.720+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:08.720+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:34:08.728+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:34:08.765+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:08.765+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:34:08.779+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:08.779+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:34:08.810+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.103 seconds
+[2025-02-20T10:34:40.886+0530] {processor.py:161} INFO - Started process (PID=8169) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:34:40.887+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:34:40.890+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:40.890+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:34:40.895+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:34:40.927+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:40.927+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:34:40.950+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:40.950+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:34:40.979+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.100 seconds
+[2025-02-20T10:35:14.331+0530] {processor.py:161} INFO - Started process (PID=8496) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:35:14.333+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:35:14.336+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:14.335+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:35:14.342+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:35:14.384+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:14.383+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:35:14.400+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:14.400+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:35:14.441+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.117 seconds
+[2025-02-20T10:35:46.293+0530] {processor.py:161} INFO - Started process (PID=8944) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:35:46.294+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:35:46.297+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:46.296+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:35:46.304+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:35:46.346+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:46.346+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:35:46.363+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:46.363+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:35:46.400+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.114 seconds
+[2025-02-20T10:36:18.511+0530] {processor.py:161} INFO - Started process (PID=9074) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:36:18.512+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:36:18.515+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:18.515+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:36:18.523+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:36:18.562+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:18.562+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:36:18.578+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:18.578+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:36:18.618+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.115 seconds
+[2025-02-20T10:36:49.125+0530] {processor.py:161} INFO - Started process (PID=9211) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:36:49.127+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:36:49.129+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:49.128+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:36:49.134+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:36:49.166+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:49.166+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:36:49.183+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:49.183+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:36:49.214+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.095 seconds
+[2025-02-20T10:37:23.482+0530] {processor.py:161} INFO - Started process (PID=9348) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:37:23.485+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:37:23.488+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:23.487+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:37:23.494+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:37:23.522+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:23.522+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:37:23.536+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:23.535+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:37:23.569+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.097 seconds
+[2025-02-20T10:37:55.355+0530] {processor.py:161} INFO - Started process (PID=9486) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:37:55.356+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:37:55.359+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:55.359+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:37:55.364+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:37:55.392+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:55.392+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:37:55.406+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:55.405+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:37:55.433+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.083 seconds
+[2025-02-20T10:38:28.297+0530] {processor.py:161} INFO - Started process (PID=9622) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:38:28.298+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:38:28.301+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:28.301+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:38:28.310+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:38:28.341+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:28.341+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:38:28.354+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:28.354+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:38:28.395+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.107 seconds
+[2025-02-20T10:39:00.176+0530] {processor.py:161} INFO - Started process (PID=9762) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:39:00.178+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:39:00.180+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:39:00.180+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:39:00.186+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:39:00.212+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:39:00.212+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:39:00.226+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:39:00.226+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:39:00.252+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.083 seconds
+[2025-02-20T10:46:02.405+0530] {processor.py:161} INFO - Started process (PID=9867) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:46:02.406+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:46:02.409+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:02.408+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:46:02.416+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:46:02.456+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:02.456+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:46:02.473+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:02.472+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:46:02.505+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.110 seconds
+[2025-02-20T10:46:33.413+0530] {processor.py:161} INFO - Started process (PID=10522) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:46:33.416+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:46:33.419+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:33.419+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:46:33.428+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:46:33.466+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:33.465+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:46:33.485+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:33.485+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:46:33.518+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.114 seconds
+[2025-02-20T10:47:03.956+0530] {processor.py:161} INFO - Started process (PID=11090) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:47:03.957+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:47:03.959+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:03.959+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:47:03.965+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:47:03.994+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:03.993+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:47:04.006+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:04.006+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:47:04.034+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.086 seconds
+[2025-02-20T10:47:34.686+0530] {processor.py:161} INFO - Started process (PID=11257) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:47:34.687+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:47:34.690+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:34.689+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:47:34.696+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:47:34.734+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:34.734+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:47:34.751+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:34.751+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:47:34.793+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.114 seconds
+[2025-02-20T10:48:05.655+0530] {processor.py:161} INFO - Started process (PID=11388) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:48:05.656+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:48:05.660+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:05.658+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:48:05.669+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:48:05.701+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:05.701+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:48:05.716+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:05.716+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:48:05.752+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.112 seconds
+[2025-02-20T10:48:36.301+0530] {processor.py:161} INFO - Started process (PID=11524) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:48:36.303+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:48:36.305+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:36.305+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:48:36.310+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:48:36.340+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:36.340+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:48:36.357+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:36.357+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:48:36.388+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.094 seconds
+[2025-02-20T10:49:07.167+0530] {processor.py:161} INFO - Started process (PID=11656) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:49:07.168+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:49:07.171+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:07.171+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:49:07.178+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:49:07.208+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:07.207+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:49:07.223+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:07.223+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:49:07.252+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.092 seconds
+[2025-02-20T10:49:39.104+0530] {processor.py:161} INFO - Started process (PID=11788) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:49:39.105+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:49:39.107+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:39.107+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:49:39.113+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:49:39.139+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:39.139+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:49:39.152+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:39.152+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:49:39.179+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.082 seconds
+[2025-02-20T10:50:10.298+0530] {processor.py:161} INFO - Started process (PID=12074) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:50:10.300+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:50:10.302+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:10.302+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:50:10.309+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:50:10.344+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:10.343+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:50:10.361+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:10.361+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:50:10.392+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.100 seconds
+[2025-02-20T10:50:42.019+0530] {processor.py:161} INFO - Started process (PID=12514) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:50:42.021+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:50:42.024+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:42.024+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:50:42.032+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:50:42.074+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:42.073+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:50:42.092+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:42.091+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:50:42.139+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.126 seconds
+[2025-02-20T10:51:13.859+0530] {processor.py:161} INFO - Started process (PID=12646) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:51:13.861+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:51:13.863+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:13.863+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:51:13.869+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:51:13.900+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:13.900+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:51:13.916+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:13.916+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:51:13.955+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.103 seconds
+[2025-02-20T10:51:45.841+0530] {processor.py:161} INFO - Started process (PID=12782) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:51:45.843+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:51:45.846+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:45.846+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:51:45.854+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:51:45.884+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:45.884+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:51:45.895+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:45.895+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:51:45.920+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.086 seconds
+[2025-02-20T10:52:16.937+0530] {processor.py:161} INFO - Started process (PID=12918) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:52:16.939+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:52:16.941+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:16.941+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:52:16.947+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:52:16.976+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:16.976+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:52:16.991+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:16.990+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:52:17.017+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.087 seconds
+[2025-02-20T10:52:47.378+0530] {processor.py:161} INFO - Started process (PID=13042) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:52:47.380+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:52:47.383+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:47.383+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:52:47.388+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:52:47.417+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:47.417+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:52:47.432+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:47.432+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:52:47.459+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.088 seconds
+[2025-02-20T10:53:18.300+0530] {processor.py:161} INFO - Started process (PID=13178) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:53:18.302+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:53:18.305+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:18.304+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:53:18.312+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:53:18.342+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:18.342+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:53:18.356+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:18.356+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:53:18.385+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.091 seconds
+[2025-02-20T10:53:48.565+0530] {processor.py:161} INFO - Started process (PID=13311) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:53:48.566+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:53:48.569+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:48.568+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:53:48.575+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:53:48.606+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:48.606+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:53:48.624+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:48.624+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:53:48.654+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.097 seconds
+[2025-02-20T10:54:18.764+0530] {processor.py:161} INFO - Started process (PID=13442) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:54:18.765+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:54:18.768+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:18.767+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:54:18.774+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:54:18.805+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:18.805+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:54:18.823+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:18.823+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:54:18.855+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.098 seconds
+[2025-02-20T10:54:48.946+0530] {processor.py:161} INFO - Started process (PID=13572) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:54:48.948+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:54:48.950+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:48.950+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:54:48.956+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:54:48.988+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:48.988+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:54:49.000+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:49.000+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:54:49.026+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.089 seconds
+[2025-02-20T10:55:19.775+0530] {processor.py:161} INFO - Started process (PID=13996) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:55:19.777+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:55:19.783+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:19.780+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:55:19.793+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:55:19.847+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:19.847+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:55:19.871+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:19.871+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:55:19.922+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.165 seconds
+[2025-02-20T10:55:50.288+0530] {processor.py:161} INFO - Started process (PID=14385) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:55:50.289+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:55:50.302+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:50.301+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:55:50.316+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:55:50.354+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:50.354+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:55:50.372+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:50.372+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:55:50.400+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.134 seconds
+[2025-02-20T10:56:20.527+0530] {processor.py:161} INFO - Started process (PID=14551) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:56:20.529+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:56:20.531+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:20.531+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:56:20.537+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:56:20.567+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:20.566+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:56:20.581+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:20.580+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:56:20.613+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.093 seconds
+[2025-02-20T10:56:50.802+0530] {processor.py:161} INFO - Started process (PID=14719) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:56:50.805+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:56:50.808+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:50.808+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:56:50.815+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:56:50.850+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:50.850+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:56:50.873+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:50.873+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:56:50.915+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.124 seconds
+[2025-02-20T10:57:21.089+0530] {processor.py:161} INFO - Started process (PID=14885) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:57:21.090+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:57:21.093+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:21.093+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:57:21.099+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:57:21.143+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:21.143+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:57:21.158+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:21.158+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:57:21.186+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.104 seconds
+[2025-02-20T10:57:51.418+0530] {processor.py:161} INFO - Started process (PID=15036) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:57:51.419+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:57:51.422+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:51.421+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:57:51.427+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:57:51.457+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:51.457+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:57:51.471+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:51.470+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:57:51.501+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.090 seconds
+[2025-02-20T10:58:21.807+0530] {processor.py:161} INFO - Started process (PID=15166) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:58:21.808+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:58:21.811+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:21.810+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:58:21.818+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:58:21.852+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:21.852+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:58:21.867+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:21.866+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:58:21.899+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.100 seconds
+[2025-02-20T10:58:52.318+0530] {processor.py:161} INFO - Started process (PID=15314) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:58:52.320+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:58:52.322+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:52.322+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:58:52.327+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:58:52.354+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:52.354+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:58:52.367+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:52.367+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:58:52.394+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.082 seconds
+[2025-02-20T10:59:23.371+0530] {processor.py:161} INFO - Started process (PID=15446) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:59:23.374+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:59:23.376+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:23.376+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:59:23.382+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:59:23.424+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:23.424+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:59:23.438+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:23.438+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:59:23.475+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.111 seconds
+[2025-02-20T10:59:54.293+0530] {processor.py:161} INFO - Started process (PID=15625) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:59:54.295+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T10:59:54.297+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:54.297+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:59:54.303+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T10:59:54.332+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:54.331+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:59:54.344+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:54.344+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T10:59:54.370+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.084 seconds
+[2025-02-20T11:00:25.723+0530] {processor.py:161} INFO - Started process (PID=16186) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:00:25.726+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:00:25.729+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:25.729+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:00:25.738+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:00:25.777+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:25.777+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:00:25.794+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:25.794+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:00:25.825+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.115 seconds
+[2025-02-20T11:00:56.150+0530] {processor.py:161} INFO - Started process (PID=16440) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:00:56.152+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:00:56.154+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:56.153+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:00:56.160+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:00:56.190+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:56.190+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:00:56.204+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:56.204+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:00:56.232+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.089 seconds
+[2025-02-20T11:01:28.290+0530] {processor.py:161} INFO - Started process (PID=16579) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:01:28.291+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:01:28.294+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:28.293+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:01:28.299+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:01:28.328+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:28.328+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:01:28.344+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:28.344+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:01:28.374+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.090 seconds
+[2025-02-20T11:02:00.326+0530] {processor.py:161} INFO - Started process (PID=16793) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:02:00.329+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:02:00.333+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:00.332+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:02:00.349+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:02:00.391+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:00.391+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:02:00.411+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:00.410+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:02:00.465+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.158 seconds
+[2025-02-20T11:02:33.050+0530] {processor.py:161} INFO - Started process (PID=16968) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:02:33.052+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:02:33.054+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:33.054+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:02:33.065+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:02:33.099+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:33.099+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:02:33.116+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:33.115+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:02:33.144+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.101 seconds
+[2025-02-20T11:03:04.953+0530] {processor.py:161} INFO - Started process (PID=17180) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:03:04.954+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:03:04.957+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:04.957+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:03:04.965+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:03:05.001+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:05.000+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:03:05.021+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:05.021+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:03:05.051+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.106 seconds
+[2025-02-20T11:03:37.522+0530] {processor.py:161} INFO - Started process (PID=17396) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:03:37.524+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:03:37.526+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:37.526+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:03:37.532+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:03:37.562+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:37.562+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:03:37.576+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:37.576+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:03:37.605+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.089 seconds
+[2025-02-20T11:04:09.688+0530] {processor.py:161} INFO - Started process (PID=17614) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:04:09.690+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:04:09.692+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:09.691+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:04:09.697+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:04:09.726+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:09.725+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:04:09.741+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:09.740+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:04:09.768+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.086 seconds
+[2025-02-20T11:04:42.474+0530] {processor.py:161} INFO - Started process (PID=17808) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:04:42.476+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:04:42.481+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:42.481+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:04:42.489+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:04:42.549+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:42.549+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:04:42.568+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:42.567+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:04:42.616+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.159 seconds
+[2025-02-20T11:05:15.176+0530] {processor.py:161} INFO - Started process (PID=18180) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:05:15.177+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:05:15.180+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:15.179+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:05:15.186+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:05:15.228+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:15.228+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:05:15.246+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:15.246+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:05:15.285+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.118 seconds
+[2025-02-20T11:05:46.476+0530] {processor.py:161} INFO - Started process (PID=18705) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:05:46.477+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:05:46.480+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:46.479+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:05:46.485+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:05:46.519+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:46.518+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:05:46.535+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:46.535+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:05:46.569+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.102 seconds
+[2025-02-20T11:06:18.527+0530] {processor.py:161} INFO - Started process (PID=18894) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:06:18.528+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:06:18.531+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:18.530+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:06:18.537+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:06:18.564+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:18.563+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:06:18.577+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:18.577+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:06:18.603+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.082 seconds
+[2025-02-20T11:06:50.850+0530] {processor.py:161} INFO - Started process (PID=19052) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:06:50.854+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:06:50.861+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:50.860+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:06:50.878+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:06:50.945+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:50.945+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:06:50.963+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:50.963+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:06:51.016+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.182 seconds
+[2025-02-20T11:07:23.165+0530] {processor.py:161} INFO - Started process (PID=19206) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:07:23.167+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:07:23.169+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:23.169+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:07:23.175+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:07:23.213+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:23.212+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:07:23.234+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:23.233+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:07:23.266+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.108 seconds
+[2025-02-20T11:07:55.152+0530] {processor.py:161} INFO - Started process (PID=19346) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:07:55.153+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:07:55.155+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:55.155+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:07:55.160+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:07:55.186+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:55.186+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:07:55.199+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:55.199+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:07:55.223+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.077 seconds
+[2025-02-20T11:08:27.928+0530] {processor.py:161} INFO - Started process (PID=19482) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:08:27.929+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:08:27.932+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:27.931+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:08:27.937+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:08:27.966+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:27.966+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:08:27.987+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:27.987+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:08:28.023+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.103 seconds
+[2025-02-20T11:09:00.763+0530] {processor.py:161} INFO - Started process (PID=19640) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:09:00.765+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:09:00.769+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:00.768+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:09:00.778+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:09:00.824+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:00.823+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:09:00.845+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:00.844+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:09:00.901+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.151 seconds
+[2025-02-20T11:09:32.998+0530] {processor.py:161} INFO - Started process (PID=19834) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:09:32.999+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:09:33.002+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:33.002+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:09:33.009+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:09:33.051+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:33.051+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:09:33.075+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:33.074+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:09:33.127+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.137 seconds
+[2025-02-20T11:10:04.901+0530] {processor.py:161} INFO - Started process (PID=19972) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:10:04.903+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:10:04.905+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:04.905+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:10:04.910+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:10:04.939+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:04.939+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:10:04.953+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:04.953+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:10:04.984+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.089 seconds
+[2025-02-20T11:10:35.384+0530] {processor.py:161} INFO - Started process (PID=20601) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:10:35.385+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:10:35.387+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:35.387+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:10:35.392+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:10:35.418+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:35.418+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:10:35.430+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:35.430+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:10:35.454+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.077 seconds
+[2025-02-20T11:11:07.848+0530] {processor.py:161} INFO - Started process (PID=20827) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:11:07.849+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:11:07.853+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:07.852+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:11:07.859+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:11:07.888+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:07.888+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:11:07.902+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:07.901+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:11:07.927+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.087 seconds
+[2025-02-20T11:11:39.652+0530] {processor.py:161} INFO - Started process (PID=20963) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:11:39.654+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:11:39.657+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:39.656+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:11:39.663+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:11:39.695+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:39.694+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:11:39.711+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:39.711+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:11:39.737+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.093 seconds
+[2025-02-20T11:12:11.857+0530] {processor.py:161} INFO - Started process (PID=21102) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:12:11.858+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:12:11.861+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:11.861+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:12:11.866+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:12:11.893+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:11.893+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:12:11.905+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:11.905+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:12:11.935+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.086 seconds
+[2025-02-20T11:12:44.624+0530] {processor.py:161} INFO - Started process (PID=21238) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:12:44.626+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:12:44.629+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:44.629+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:12:44.635+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:12:44.665+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:44.664+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:12:44.679+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:44.679+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:12:44.706+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.089 seconds
+[2025-02-20T11:13:16.614+0530] {processor.py:161} INFO - Started process (PID=21376) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:13:16.616+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:13:16.618+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:16.618+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:13:16.624+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:13:16.657+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:16.657+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:13:16.672+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:16.672+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:13:16.701+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.095 seconds
+[2025-02-20T11:13:46.810+0530] {processor.py:161} INFO - Started process (PID=21514) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:13:46.811+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:13:46.814+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:46.813+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:13:46.819+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:13:46.850+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:46.849+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:13:46.862+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:46.862+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:13:46.889+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.087 seconds
+[2025-02-20T11:14:17.630+0530] {processor.py:161} INFO - Started process (PID=21671) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:14:17.632+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:14:17.636+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:17.635+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:14:17.644+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:14:17.675+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:17.675+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:14:17.689+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:17.689+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:14:17.717+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.095 seconds
+[2025-02-20T11:14:48.729+0530] {processor.py:161} INFO - Started process (PID=21819) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:14:48.732+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:14:48.735+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:48.734+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:14:48.752+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:14:48.799+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:48.798+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:14:48.817+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:48.816+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:14:48.853+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.136 seconds
+[2025-02-20T11:15:19.284+0530] {processor.py:161} INFO - Started process (PID=22173) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:15:19.285+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:15:19.287+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:19.287+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:15:19.294+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:15:19.326+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:19.325+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:15:19.340+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:19.340+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:15:19.368+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.093 seconds
+[2025-02-20T11:15:50.168+0530] {processor.py:161} INFO - Started process (PID=22622) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:15:50.170+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:15:50.172+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:50.172+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:15:50.178+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:15:50.209+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:50.209+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:15:50.225+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:50.224+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:15:50.251+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.092 seconds
+[2025-02-20T11:16:20.334+0530] {processor.py:161} INFO - Started process (PID=22807) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:16:20.335+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:16:20.338+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:20.337+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:16:20.343+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:16:20.371+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:20.370+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:16:20.384+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:20.384+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:16:20.408+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.081 seconds
+[2025-02-20T11:16:50.544+0530] {processor.py:161} INFO - Started process (PID=22965) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:16:50.546+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:16:50.548+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:50.548+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:16:50.554+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:16:50.581+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:50.580+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:16:50.594+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:50.593+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:16:50.619+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.081 seconds
+[2025-02-20T11:17:20.810+0530] {processor.py:161} INFO - Started process (PID=23124) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:17:20.811+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:17:20.813+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:20.813+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:17:20.819+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:17:20.847+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:20.847+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:17:20.863+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:20.863+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:17:20.891+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.089 seconds
+[2025-02-20T11:17:51.564+0530] {processor.py:161} INFO - Started process (PID=23272) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:17:51.566+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:17:51.568+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:51.568+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:17:51.573+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:17:51.614+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:51.614+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:17:51.636+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:51.635+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:17:51.668+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.110 seconds
+[2025-02-20T11:18:22.105+0530] {processor.py:161} INFO - Started process (PID=23410) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:18:22.110+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:18:22.112+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:22.112+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:18:22.122+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:18:22.158+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:22.158+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:18:22.171+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:22.170+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:18:22.195+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.107 seconds
+[2025-02-20T11:18:52.784+0530] {processor.py:161} INFO - Started process (PID=23540) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:18:52.786+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:18:52.788+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:52.788+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:18:52.793+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:18:52.821+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:52.821+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:18:52.834+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:52.834+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:18:52.860+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.083 seconds
+[2025-02-20T11:19:23.412+0530] {processor.py:161} INFO - Started process (PID=23670) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:19:23.413+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:19:23.416+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:23.416+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:19:23.422+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:19:23.459+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:23.459+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:19:23.474+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:23.474+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:19:23.503+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.098 seconds
+[2025-02-20T11:19:54.093+0530] {processor.py:161} INFO - Started process (PID=23808) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:19:54.095+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:19:54.098+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:54.097+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:19:54.113+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:19:54.166+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:54.166+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:19:54.196+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:54.196+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:19:54.238+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.162 seconds
+[2025-02-20T11:20:24.509+0530] {processor.py:161} INFO - Started process (PID=24318) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:20:24.511+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:20:24.514+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:24.514+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:20:24.520+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:20:24.567+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:24.567+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:20:24.590+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:24.589+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:20:24.627+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.129 seconds
+[2025-02-20T11:20:55.486+0530] {processor.py:161} INFO - Started process (PID=24537) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:20:55.487+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:20:55.491+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:55.490+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:20:55.496+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:20:55.526+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:55.525+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:20:55.538+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:55.537+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:20:55.570+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.091 seconds
+[2025-02-20T11:21:26.299+0530] {processor.py:161} INFO - Started process (PID=24750) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:21:26.301+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:21:26.303+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:26.303+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:21:26.310+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:21:26.341+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:26.341+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:21:26.354+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:26.354+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:21:26.383+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.094 seconds
+[2025-02-20T11:21:57.151+0530] {processor.py:161} INFO - Started process (PID=24960) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:21:57.153+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:21:57.156+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:57.155+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:21:57.163+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:21:57.198+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:57.198+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:21:57.214+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:57.213+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:21:57.247+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.103 seconds
+[2025-02-20T11:22:28.650+0530] {processor.py:161} INFO - Started process (PID=25096) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:22:28.656+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:22:28.658+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:28.658+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:22:28.664+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:22:28.691+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:28.690+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:22:28.703+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:28.703+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:22:28.728+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.085 seconds
+[2025-02-20T11:23:02.187+0530] {processor.py:161} INFO - Started process (PID=25238) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:23:02.189+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:23:02.192+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:02.191+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:23:02.197+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:23:02.227+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:02.227+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:23:02.241+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:02.241+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:23:02.304+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.124 seconds
+[2025-02-20T11:23:34.589+0530] {processor.py:161} INFO - Started process (PID=25382) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:23:34.591+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:23:34.593+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:34.593+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:23:34.599+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:23:34.648+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:34.648+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:23:34.664+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:34.663+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:23:34.694+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.112 seconds
+[2025-02-20T11:24:06.592+0530] {processor.py:161} INFO - Started process (PID=25518) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:24:06.594+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:24:06.596+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:06.596+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:24:06.605+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:24:06.635+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:06.634+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:24:06.651+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:06.651+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:24:06.682+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.096 seconds
+[2025-02-20T11:24:38.756+0530] {processor.py:161} INFO - Started process (PID=25654) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:24:38.757+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:24:38.760+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:38.759+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:24:38.765+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:24:38.792+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:38.791+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:24:38.804+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:38.804+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:24:38.828+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.079 seconds
+[2025-02-20T11:25:10.967+0530] {processor.py:161} INFO - Started process (PID=25947) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:25:10.968+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:25:10.971+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:10.971+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:25:10.977+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:25:11.006+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:11.006+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:25:11.021+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:11.021+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:25:11.049+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.090 seconds
+[2025-02-20T11:25:43.638+0530] {processor.py:161} INFO - Started process (PID=26367) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:25:43.639+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:25:43.642+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:43.642+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:25:43.648+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:25:43.677+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:43.677+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:25:43.691+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:43.691+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:25:43.718+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.087 seconds
+[2025-02-20T11:26:18.136+0530] {processor.py:161} INFO - Started process (PID=26447) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:26:18.138+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-02-20T11:26:18.141+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:26:18.140+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:26:18.148+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-02-20T11:26:18.185+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:26:18.185+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:26:18.315+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:26:18.315+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-02-20T11:26:18.361+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.235 seconds

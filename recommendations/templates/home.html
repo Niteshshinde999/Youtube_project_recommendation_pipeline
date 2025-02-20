@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    HOME | SELF STUDY
+{% endblock %}
+{% block content %}
+
+<h1>Welcome to the Website!</h1>
+{% if user.is_authenticated %}
+    <p>This website is build for study you can make your custom corses in it, 
+        It is helpfull for those who do self study.
+    </p>
+    <br>
+    <br>
+    <h2>Thankyou for visithing our website</h2>
+{% else %}
+    <p>Please login or signup to access the full features.</p>
+{% endif %}
+
+
+{% endblock%}

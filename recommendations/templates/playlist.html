@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Results</h2>
+{% if youtube_data %}
+    <h3>Playlists:</h3>
+    <ul>
+        {% for playlist in youtube_data.playlists %}
+            <li>
+                <a href="/playlist/{{ playlist.id }}" target="_self"> 
+                <img src="{{ playlist.thumbnail }}" alt="{{ playlist.title }}" width="200"><br>
+            </a>
+                <strong>{{ playlist.title }}</strong><br>
+                {{ playlist.description }}<br>
+                <!-- <form method="POST" >
+                    {% csrf_token %}
+                    <button type="submit" class="btn btn-primary">Add to Course</button><br><br>
+                </form> -->
+            </li>
+        {% endfor %}
+    </ul>
+
+   
+    {% else %}
+        <p>No results found.</p>
+{% endif %}
+{% endblock %}

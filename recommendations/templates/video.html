@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="player"></div>
+    <div>
+        {{video.items.contentDetails}}
+    </div>
+
+<script>
+  var player;
+  var totalWatchTime = 0;
+  var lastTrackedTime = 0;
+
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player', {
+      height: '360',
+      width: '640',
+      videoId: "{{ video.items.0.id }}",
+      events: {
+        'onStateChange': onPlayerStateChange
+      }
+    });
+  }
+
+  function onPlayerStateChange(event) {
+    if (event.data == YT.PlayerState.PLAYING) {
+      // Start tracking
+      lastTrackedTime = Date.now();
+    } else if (event.data == YT.PlayerState.PAUSED || event.data == YT.PlayerState.ENDED) {
+      // Calculate watch time
+      if (lastTrackedTime > 0) {
+        totalWatchTime += (Date.now() - lastTrackedTime) / 1000; // Convert milliseconds to seconds
+        lastTrackedTime = 0;
+        console.log(`Total Watch Time: ${totalWatchTime} seconds`);
+      }
+    }
+  }
+</script>
+<script src="https://www.youtube.com/iframe_api"></script>
+
+<h2>Practice Questions</h2>
+{% if questions %}
+<ul>
+  {% for question in questions %}
+      <li>{{ question }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+
+</body>
+</html>

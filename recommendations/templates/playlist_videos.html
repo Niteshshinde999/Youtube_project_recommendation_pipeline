@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block content %}
+<h3>Videos:</h3>
+        <ul>
+            {% for video in playlist_videos %}
+                <li>
+                    <a href="/video/{{ video.id }}" target="_self">
+                    <img src="{{ video.thumbnail }}" alt="{{ video.title }}" width="200"><br>
+                    </a>
+                    <strong>{{ video.title }}</strong><br>
+                    {{ video.description }}
+                    <!-- <form method="POST" >
+                        {% csrf_token %}
+                        <button type="submit" class="btn btn-primary">Add Video to Playlist</button><br><br>
+                    </form> -->
+            
+                </li>
+            {% endfor %}
+        </ul>
+
+{% endblock %}

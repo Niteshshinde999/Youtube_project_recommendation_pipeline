@@ -1,0 +1,896 @@
+[2025-02-20T10:12:56.371+0530] {processor.py:161} INFO - Started process (PID=540) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:12:56.372+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:12:56.374+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:12:56.374+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:12:56.390+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:12:56.528+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:12:56.527+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:12:56.544+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:12:56.544+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:12:56.578+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.212 seconds
+[2025-02-20T10:13:27.554+0530] {processor.py:161} INFO - Started process (PID=736) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:13:27.555+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:13:27.557+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:27.557+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:13:27.569+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:13:27.625+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:27.625+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:13:27.641+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:27.641+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:13:27.676+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.131 seconds
+[2025-02-20T10:13:57.789+0530] {processor.py:161} INFO - Started process (PID=1109) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:13:57.790+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:13:57.792+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:57.792+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:13:57.803+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:13:57.864+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:57.863+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:13:57.878+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:57.878+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:13:57.905+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.124 seconds
+[2025-02-20T10:14:28.356+0530] {processor.py:161} INFO - Started process (PID=1160) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:14:28.357+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:14:28.359+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:28.359+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:14:28.372+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:14:28.435+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:28.435+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:14:28.450+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:28.449+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:14:28.487+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.139 seconds
+[2025-02-20T10:14:59.437+0530] {processor.py:161} INFO - Started process (PID=1215) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:14:59.438+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:14:59.440+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:59.440+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:14:59.451+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:14:59.505+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:59.505+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:14:59.519+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:59.519+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:14:59.554+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.124 seconds
+[2025-02-20T10:15:29.963+0530] {processor.py:161} INFO - Started process (PID=1725) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:15:29.965+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:15:29.968+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:29.967+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:15:29.980+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:15:30.042+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:30.041+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:15:30.054+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:30.054+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:15:30.080+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.125 seconds
+[2025-02-20T10:16:00.569+0530] {processor.py:161} INFO - Started process (PID=1782) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:16:00.570+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:16:00.572+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:00.572+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:16:00.583+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:16:00.637+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:00.637+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:16:00.650+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:00.650+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:16:00.676+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.113 seconds
+[2025-02-20T10:16:31.197+0530] {processor.py:161} INFO - Started process (PID=1839) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:16:31.198+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:16:31.201+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:31.201+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:16:31.214+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:16:31.266+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:31.266+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:16:31.280+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:31.280+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:16:31.308+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.119 seconds
+[2025-02-20T10:17:01.614+0530] {processor.py:161} INFO - Started process (PID=1921) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:17:01.615+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:17:01.617+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:01.617+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:17:01.631+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:17:01.704+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:01.704+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:17:01.720+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:01.720+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:17:01.751+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.144 seconds
+[2025-02-20T10:17:31.955+0530] {processor.py:161} INFO - Started process (PID=1984) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:17:31.956+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:17:31.958+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:31.958+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:17:31.969+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:17:32.023+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:32.023+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:17:32.036+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:32.036+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:17:32.062+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.113 seconds
+[2025-02-20T10:18:02.135+0530] {processor.py:161} INFO - Started process (PID=2036) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:18:02.137+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:18:02.139+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:02.139+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:18:02.154+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:18:02.215+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:02.215+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:18:02.229+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:02.229+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:18:02.262+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.134 seconds
+[2025-02-20T10:18:32.745+0530] {processor.py:161} INFO - Started process (PID=2094) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:18:32.746+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:18:32.749+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:32.749+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:18:32.764+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:18:32.827+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:32.826+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:18:32.843+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:32.843+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:18:32.881+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.144 seconds
+[2025-02-20T10:19:03.122+0530] {processor.py:161} INFO - Started process (PID=2146) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:19:03.123+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:19:03.126+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:03.125+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:19:03.142+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:19:03.203+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:03.203+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:19:03.217+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:03.216+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:19:03.249+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.134 seconds
+[2025-02-20T10:19:34.352+0530] {processor.py:161} INFO - Started process (PID=2200) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:19:34.354+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:19:34.356+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:34.356+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:19:34.368+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:19:34.432+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:34.432+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:19:34.445+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:34.444+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:19:34.479+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.134 seconds
+[2025-02-20T10:20:05.133+0530] {processor.py:161} INFO - Started process (PID=2269) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:20:05.134+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:20:05.137+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:05.136+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:20:05.149+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:20:05.218+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:05.218+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:20:05.236+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:05.236+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:20:05.269+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.145 seconds
+[2025-02-20T10:20:36.900+0530] {processor.py:161} INFO - Started process (PID=3285) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:20:36.902+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:20:36.905+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:36.905+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:20:36.931+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:20:37.033+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:37.032+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:20:37.051+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:37.051+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:20:37.095+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.207 seconds
+[2025-02-20T10:21:09.165+0530] {processor.py:161} INFO - Started process (PID=3424) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:21:09.166+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:21:09.169+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:09.169+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:21:09.182+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:21:09.249+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:09.249+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:21:09.264+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:09.264+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:21:09.295+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.138 seconds
+[2025-02-20T10:21:41.667+0530] {processor.py:161} INFO - Started process (PID=3616) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:21:41.668+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:21:41.671+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:41.671+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:21:41.686+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:21:41.738+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:41.738+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:21:41.751+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:41.751+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:21:41.778+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.119 seconds
+[2025-02-20T10:22:13.936+0530] {processor.py:161} INFO - Started process (PID=3869) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:22:13.938+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:22:13.941+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:13.940+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:22:13.953+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:22:14.004+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:14.003+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:22:14.017+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:14.017+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:22:14.044+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.114 seconds
+[2025-02-20T10:22:46.483+0530] {processor.py:161} INFO - Started process (PID=4069) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:22:46.485+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:22:46.487+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:46.487+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:22:46.498+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:22:46.550+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:46.550+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:22:46.562+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:46.562+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:22:46.587+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.110 seconds
+[2025-02-20T10:23:18.633+0530] {processor.py:161} INFO - Started process (PID=4199) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:23:18.635+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:23:18.639+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:18.638+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:23:18.653+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:23:18.712+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:18.712+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:23:18.727+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:18.727+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:23:18.755+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.129 seconds
+[2025-02-20T10:23:50.860+0530] {processor.py:161} INFO - Started process (PID=4337) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:23:50.861+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:23:50.863+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:50.863+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:23:50.876+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:23:50.930+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:50.929+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:23:50.941+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:50.941+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:23:50.967+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.114 seconds
+[2025-02-20T10:24:24.081+0530] {processor.py:161} INFO - Started process (PID=4475) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:24:24.083+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:24:24.086+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:24.086+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:24:24.101+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:24:24.163+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:24.163+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:24:24.178+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:24.177+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:24:24.206+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.132 seconds
+[2025-02-20T10:24:56.000+0530] {processor.py:161} INFO - Started process (PID=4611) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:24:56.002+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:24:56.004+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:56.004+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:24:56.018+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:24:56.096+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:56.096+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:24:56.113+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:56.113+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:24:56.144+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.153 seconds
+[2025-02-20T10:25:29.497+0530] {processor.py:161} INFO - Started process (PID=5171) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:25:29.499+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:25:29.503+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:25:29.502+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:25:29.522+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:25:29.601+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:25:29.601+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:25:29.620+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:25:29.620+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:25:29.659+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.172 seconds
+[2025-02-20T10:26:01.532+0530] {processor.py:161} INFO - Started process (PID=5351) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:26:01.533+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:26:01.535+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:01.535+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:26:01.547+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:26:01.610+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:01.610+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:26:01.623+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:01.623+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:26:01.755+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.230 seconds
+[2025-02-20T10:26:33.079+0530] {processor.py:161} INFO - Started process (PID=5490) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:26:33.080+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:26:33.082+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:33.082+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:26:33.096+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:26:33.158+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:33.158+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:26:33.171+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:33.171+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:26:33.200+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.128 seconds
+[2025-02-20T10:27:05.968+0530] {processor.py:161} INFO - Started process (PID=5626) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:27:05.969+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:27:05.971+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:05.971+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:27:05.984+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:27:06.039+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:06.038+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:27:06.051+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:06.051+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:27:06.077+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.121 seconds
+[2025-02-20T10:27:38.060+0530] {processor.py:161} INFO - Started process (PID=5859) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:27:38.061+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:27:38.064+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:38.063+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:27:38.077+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:27:38.129+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:38.128+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:27:38.143+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:38.142+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:27:38.167+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.114 seconds
+[2025-02-20T10:28:10.848+0530] {processor.py:161} INFO - Started process (PID=5996) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:28:10.849+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:28:10.851+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:10.851+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:28:10.875+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:28:10.939+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:10.938+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:28:10.951+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:10.951+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:28:10.989+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.148 seconds
+[2025-02-20T10:28:44.085+0530] {processor.py:161} INFO - Started process (PID=6134) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:28:44.087+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:28:44.089+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:44.089+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:28:44.101+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:28:44.291+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:44.291+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:28:44.304+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:44.303+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:28:44.332+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.256 seconds
+[2025-02-20T10:29:16.194+0530] {processor.py:161} INFO - Started process (PID=6267) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:29:16.195+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:29:16.198+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:16.198+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:29:16.213+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:29:16.299+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:16.299+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:29:16.433+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:16.433+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:29:16.472+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.288 seconds
+[2025-02-20T10:29:47.972+0530] {processor.py:161} INFO - Started process (PID=6400) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:29:47.973+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:29:47.976+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:47.976+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:29:47.990+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:29:48.056+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:48.055+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:29:48.075+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:48.075+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:29:48.110+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.147 seconds
+[2025-02-20T10:30:20.506+0530] {processor.py:161} INFO - Started process (PID=6768) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:30:20.507+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:30:20.510+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:20.509+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:30:20.523+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:30:20.616+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:20.616+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:30:20.636+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:20.636+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:30:20.706+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.208 seconds
+[2025-02-20T10:30:52.445+0530] {processor.py:161} INFO - Started process (PID=7196) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:30:52.446+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:30:52.448+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:52.448+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:30:52.460+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:30:52.527+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:52.527+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:30:52.540+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:52.540+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:30:52.565+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.127 seconds
+[2025-02-20T10:31:25.419+0530] {processor.py:161} INFO - Started process (PID=7338) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:31:25.420+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:31:25.422+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:25.422+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:31:25.435+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:31:25.491+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:25.490+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:31:25.505+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:25.505+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:31:25.533+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.121 seconds
+[2025-02-20T10:31:58.060+0530] {processor.py:161} INFO - Started process (PID=7472) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:31:58.062+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:31:58.065+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:58.065+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:31:58.082+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:31:58.186+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:58.185+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:31:58.203+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:58.202+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:31:58.238+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.188 seconds
+[2025-02-20T10:32:30.145+0530] {processor.py:161} INFO - Started process (PID=7610) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:32:30.147+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:32:30.149+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:32:30.149+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:32:30.162+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:32:30.216+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:32:30.215+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:32:30.229+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:32:30.229+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:32:30.258+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.119 seconds
+[2025-02-20T10:33:03.353+0530] {processor.py:161} INFO - Started process (PID=7746) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:33:03.355+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:33:03.357+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:03.357+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:33:03.370+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:33:03.427+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:03.426+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:33:03.442+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:03.442+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:33:03.468+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.123 seconds
+[2025-02-20T10:33:35.522+0530] {processor.py:161} INFO - Started process (PID=7882) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:33:35.523+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:33:35.526+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:35.526+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:33:35.538+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:33:35.596+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:35.595+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:33:35.609+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:35.609+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:33:35.637+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.123 seconds
+[2025-02-20T10:34:07.791+0530] {processor.py:161} INFO - Started process (PID=8019) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:34:07.793+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:34:07.796+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:07.796+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:34:07.814+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:34:07.906+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:07.906+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:34:07.928+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:07.927+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:34:07.976+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.197 seconds
+[2025-02-20T10:34:40.158+0530] {processor.py:161} INFO - Started process (PID=8159) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:34:40.160+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:34:40.162+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:40.162+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:34:40.173+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:34:40.226+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:40.226+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:34:40.239+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:40.239+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:34:40.266+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.115 seconds
+[2025-02-20T10:35:13.537+0530] {processor.py:161} INFO - Started process (PID=8485) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:35:13.539+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:35:13.541+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:13.541+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:35:13.556+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:35:13.610+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:13.610+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:35:13.625+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:13.624+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:35:13.658+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.129 seconds
+[2025-02-20T10:35:45.655+0530] {processor.py:161} INFO - Started process (PID=8928) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:35:45.656+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:35:45.659+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:45.659+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:35:45.673+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:35:45.724+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:45.723+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:35:45.738+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:45.738+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:35:45.763+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.115 seconds
+[2025-02-20T10:36:17.685+0530] {processor.py:161} INFO - Started process (PID=9064) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:36:17.687+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:36:17.690+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:17.689+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:36:17.708+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:36:17.808+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:17.808+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:36:17.832+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:17.831+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:36:17.871+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.193 seconds
+[2025-02-20T10:36:48.534+0530] {processor.py:161} INFO - Started process (PID=9201) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:36:48.536+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:36:48.539+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:48.539+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:36:48.554+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:36:48.608+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:48.608+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:36:48.621+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:48.621+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:36:48.646+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.120 seconds
+[2025-02-20T10:37:22.732+0530] {processor.py:161} INFO - Started process (PID=9338) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:37:22.733+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:37:22.736+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:22.735+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:37:22.748+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:37:22.803+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:22.803+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:37:22.815+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:22.815+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:37:22.844+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.120 seconds
+[2025-02-20T10:37:54.653+0530] {processor.py:161} INFO - Started process (PID=9470) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:37:54.654+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:37:54.656+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:54.656+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:37:54.668+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:37:54.720+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:54.720+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:37:54.732+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:54.732+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:37:54.761+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.114 seconds
+[2025-02-20T10:38:27.544+0530] {processor.py:161} INFO - Started process (PID=9612) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:38:27.545+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:38:27.547+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:27.547+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:38:27.560+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:38:27.613+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:27.613+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:38:27.625+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:27.625+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:38:27.655+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.118 seconds
+[2025-02-20T10:38:59.473+0530] {processor.py:161} INFO - Started process (PID=9746) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:38:59.475+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:38:59.477+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:59.476+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:38:59.489+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:38:59.543+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:59.543+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:38:59.556+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:59.555+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:38:59.580+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.114 seconds
+[2025-02-20T10:46:01.565+0530] {processor.py:161} INFO - Started process (PID=9857) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:46:01.566+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:46:01.568+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:01.568+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:46:01.587+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:46:01.665+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:01.664+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:46:01.682+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:01.682+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:46:01.724+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.169 seconds
+[2025-02-20T10:46:32.492+0530] {processor.py:161} INFO - Started process (PID=10500) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:46:32.495+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:46:32.498+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:32.497+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:46:32.515+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:46:32.600+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:32.600+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:46:32.618+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:32.617+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:46:32.659+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.174 seconds
+[2025-02-20T10:47:03.197+0530] {processor.py:161} INFO - Started process (PID=11074) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:47:03.198+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:47:03.201+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:03.200+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:47:03.212+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:47:03.272+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:03.272+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:47:03.287+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:03.287+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:47:03.325+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.135 seconds
+[2025-02-20T10:47:34.086+0530] {processor.py:161} INFO - Started process (PID=11247) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:47:34.087+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:47:34.090+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:34.089+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:47:34.103+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:47:34.161+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:34.161+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:47:34.174+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:34.173+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:47:34.199+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.120 seconds
+[2025-02-20T10:48:04.885+0530] {processor.py:161} INFO - Started process (PID=11378) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:48:04.886+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:48:04.889+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:04.888+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:48:04.902+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:48:04.957+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:04.956+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:48:04.970+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:04.970+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:48:04.997+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.121 seconds
+[2025-02-20T10:48:35.690+0530] {processor.py:161} INFO - Started process (PID=11514) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:48:35.692+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:48:35.694+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:35.694+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:48:35.706+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:48:35.762+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:35.762+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:48:35.776+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:35.776+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:48:35.805+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.122 seconds
+[2025-02-20T10:49:06.398+0530] {processor.py:161} INFO - Started process (PID=11646) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:49:06.399+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:49:06.402+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:06.401+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:49:06.420+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:49:06.480+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:06.479+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:49:06.494+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:06.494+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:49:06.521+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.132 seconds
+[2025-02-20T10:49:38.247+0530] {processor.py:161} INFO - Started process (PID=11778) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:49:38.248+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:49:38.251+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:38.250+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:49:38.263+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:49:38.321+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:38.320+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:49:38.336+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:38.336+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:49:38.372+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.131 seconds
+[2025-02-20T10:50:09.501+0530] {processor.py:161} INFO - Started process (PID=12063) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:50:09.503+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:50:09.505+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:09.505+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:50:09.520+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:50:09.583+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:09.583+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:50:09.599+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:09.599+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:50:09.633+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.139 seconds
+[2025-02-20T10:50:41.368+0530] {processor.py:161} INFO - Started process (PID=12504) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:50:41.369+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:50:41.372+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:41.372+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:50:41.388+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:50:41.442+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:41.442+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:50:41.456+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:41.455+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:50:41.481+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.122 seconds
+[2025-02-20T10:51:13.225+0530] {processor.py:161} INFO - Started process (PID=12636) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:51:13.227+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:51:13.230+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:13.230+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:51:13.245+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:51:13.301+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:13.300+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:51:13.314+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:13.314+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:51:13.341+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.124 seconds
+[2025-02-20T10:51:45.221+0530] {processor.py:161} INFO - Started process (PID=12772) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:51:45.222+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:51:45.224+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:45.224+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:51:45.237+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:51:45.294+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:45.293+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:51:45.308+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:45.308+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:51:45.337+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.123 seconds
+[2025-02-20T10:52:16.139+0530] {processor.py:161} INFO - Started process (PID=12902) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:52:16.140+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:52:16.143+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:16.142+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:52:16.156+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:52:16.213+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:16.213+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:52:16.229+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:16.228+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:52:16.255+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.125 seconds
+[2025-02-20T10:52:46.709+0530] {processor.py:161} INFO - Started process (PID=13032) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:52:46.710+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:52:46.712+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:46.712+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:52:46.724+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:52:46.775+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:46.775+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:52:46.789+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:46.789+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:52:46.817+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.115 seconds
+[2025-02-20T10:53:17.295+0530] {processor.py:161} INFO - Started process (PID=13168) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:53:17.297+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:53:17.300+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:17.299+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:53:17.326+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:53:17.441+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:17.441+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:53:17.469+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:17.469+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:53:17.510+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.224 seconds
+[2025-02-20T10:53:47.539+0530] {processor.py:161} INFO - Started process (PID=13295) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:53:47.540+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:53:47.543+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:47.542+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:53:47.558+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:53:47.633+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:47.632+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:53:47.657+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:47.657+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:53:47.699+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.173 seconds
+[2025-02-20T10:54:17.857+0530] {processor.py:161} INFO - Started process (PID=13426) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:54:17.859+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:54:17.863+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:17.862+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:54:17.883+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:54:17.984+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:17.983+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:54:18.006+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:18.006+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:54:18.043+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.205 seconds
+[2025-02-20T10:54:48.072+0530] {processor.py:161} INFO - Started process (PID=13562) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:54:48.073+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:54:48.075+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:48.075+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:54:48.090+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:54:48.148+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:48.148+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:54:48.161+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:48.161+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:54:48.215+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.150 seconds
+[2025-02-20T10:55:18.619+0530] {processor.py:161} INFO - Started process (PID=13924) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:55:18.621+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:55:18.625+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:18.625+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:55:18.648+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:55:18.749+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:18.749+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:55:18.785+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:18.784+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:55:18.833+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.223 seconds
+[2025-02-20T10:55:49.424+0530] {processor.py:161} INFO - Started process (PID=14372) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:55:49.426+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:55:49.428+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:49.428+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:55:49.440+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:55:49.499+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:49.499+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:55:49.512+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:49.512+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:55:49.540+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.123 seconds
+[2025-02-20T10:56:19.810+0530] {processor.py:161} INFO - Started process (PID=14541) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:56:19.811+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:56:19.813+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:19.813+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:56:19.827+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:56:19.887+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:19.887+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:56:19.901+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:19.901+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:56:19.928+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.125 seconds
+[2025-02-20T10:56:50.085+0530] {processor.py:161} INFO - Started process (PID=14710) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:56:50.087+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:56:50.090+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:50.090+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:56:50.109+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:56:50.195+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:50.195+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:56:50.214+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:50.213+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:56:50.246+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.170 seconds
+[2025-02-20T10:57:20.475+0530] {processor.py:161} INFO - Started process (PID=14876) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:57:20.476+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:57:20.479+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:20.478+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:57:20.491+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:57:20.591+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:20.590+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:57:20.606+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:20.606+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:57:20.635+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.167 seconds
+[2025-02-20T10:57:50.786+0530] {processor.py:161} INFO - Started process (PID=15027) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:57:50.788+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:57:50.790+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:50.790+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:57:50.802+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:57:50.860+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:50.859+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:57:50.875+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:50.875+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:57:50.908+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.128 seconds
+[2025-02-20T10:58:21.168+0530] {processor.py:161} INFO - Started process (PID=15157) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:58:21.170+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:58:21.175+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:21.174+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:58:21.187+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:58:21.245+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:21.245+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:58:21.258+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:21.258+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:58:21.282+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.122 seconds
+[2025-02-20T10:58:51.708+0530] {processor.py:161} INFO - Started process (PID=15305) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:58:51.710+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:58:51.712+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:51.712+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:58:51.735+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:58:51.788+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:51.787+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:58:51.800+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:51.800+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:58:51.825+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.134 seconds
+[2025-02-20T10:59:22.697+0530] {processor.py:161} INFO - Started process (PID=15437) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:59:22.699+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:59:22.701+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:22.701+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:59:22.715+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:59:22.776+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:22.775+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:59:22.791+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:22.791+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:59:22.821+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.133 seconds
+[2025-02-20T10:59:53.467+0530] {processor.py:161} INFO - Started process (PID=15609) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:59:53.469+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T10:59:53.471+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:53.471+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:59:53.484+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T10:59:53.548+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:53.547+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:59:53.564+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:53.563+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T10:59:53.593+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.133 seconds
+[2025-02-20T11:00:24.668+0530] {processor.py:161} INFO - Started process (PID=16176) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:00:24.671+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:00:24.673+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:24.673+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:00:24.692+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:00:24.772+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:24.772+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:00:24.794+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:24.794+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:00:24.834+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.174 seconds
+[2025-02-20T11:00:55.413+0530] {processor.py:161} INFO - Started process (PID=16429) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:00:55.415+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:00:55.418+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:55.417+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:00:55.437+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:00:55.508+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:55.508+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:00:55.524+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:55.524+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:00:55.560+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.159 seconds
+[2025-02-20T11:01:27.481+0530] {processor.py:161} INFO - Started process (PID=16563) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:01:27.482+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:01:27.486+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:27.485+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:01:27.501+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:01:27.556+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:27.555+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:01:27.569+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:27.569+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:01:27.602+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.130 seconds
+[2025-02-20T11:01:59.465+0530] {processor.py:161} INFO - Started process (PID=16783) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:01:59.467+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:01:59.469+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:59.469+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:01:59.480+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:01:59.538+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:59.538+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:01:59.553+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:59.552+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:01:59.582+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.124 seconds
+[2025-02-20T11:02:32.203+0530] {processor.py:161} INFO - Started process (PID=16957) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:02:32.205+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:02:32.208+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:32.207+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:02:32.232+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:02:32.308+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:32.308+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:02:32.321+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:32.321+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:02:32.350+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.160 seconds
+[2025-02-20T11:03:04.336+0530] {processor.py:161} INFO - Started process (PID=17170) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:03:04.337+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:03:04.340+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:04.339+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:03:04.352+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:03:04.406+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:04.406+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:03:04.420+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:04.420+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:03:04.448+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.120 seconds
+[2025-02-20T11:03:36.747+0530] {processor.py:161} INFO - Started process (PID=17386) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:03:36.749+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:03:36.751+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:36.751+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:03:36.763+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:03:36.827+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:36.827+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:03:36.843+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:36.842+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:03:36.876+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.135 seconds
+[2025-02-20T11:04:09.034+0530] {processor.py:161} INFO - Started process (PID=17604) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:04:09.036+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:04:09.038+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:09.038+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:04:09.050+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:04:09.108+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:09.108+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:04:09.122+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:09.122+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:04:09.157+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.129 seconds
+[2025-02-20T11:04:41.640+0530] {processor.py:161} INFO - Started process (PID=17798) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:04:41.641+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:04:41.644+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:41.643+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:04:41.658+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:04:41.735+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:41.735+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:04:41.761+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:41.761+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:04:41.798+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.167 seconds
+[2025-02-20T11:05:14.310+0530] {processor.py:161} INFO - Started process (PID=18168) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:05:14.313+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:05:14.315+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:14.315+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:05:14.337+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:05:14.448+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:14.447+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:05:14.467+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:14.467+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:05:14.516+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.219 seconds
+[2025-02-20T11:05:45.619+0530] {processor.py:161} INFO - Started process (PID=18687) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:05:45.622+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:05:45.625+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:45.624+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:05:45.663+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:05:45.748+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:45.748+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:05:45.762+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:45.762+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:05:45.791+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.186 seconds
+[2025-02-20T11:06:17.941+0530] {processor.py:161} INFO - Started process (PID=18884) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:06:17.942+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:06:17.945+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:17.944+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:06:17.957+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:06:18.012+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:18.012+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:06:18.024+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:18.024+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:06:18.051+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.117 seconds
+[2025-02-20T11:06:49.999+0530] {processor.py:161} INFO - Started process (PID=19035) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:06:50.000+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:06:50.003+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:50.002+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:06:50.015+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:06:50.076+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:50.076+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:06:50.090+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:50.090+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:06:50.118+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.127 seconds
+[2025-02-20T11:07:22.385+0530] {processor.py:161} INFO - Started process (PID=19196) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:07:22.387+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:07:22.391+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:22.391+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:07:22.410+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:07:22.511+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:22.510+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:07:22.527+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:22.527+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:07:22.560+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.185 seconds
+[2025-02-20T11:07:54.472+0530] {processor.py:161} INFO - Started process (PID=19336) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:07:54.474+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:07:54.477+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:54.477+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:07:54.499+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:07:54.571+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:54.571+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:07:54.590+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:54.590+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:07:54.632+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.170 seconds
+[2025-02-20T11:08:27.196+0530] {processor.py:161} INFO - Started process (PID=19472) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:08:27.198+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:08:27.200+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:27.200+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:08:27.213+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:08:27.268+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:27.268+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:08:27.283+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:27.283+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:08:27.318+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.129 seconds
+[2025-02-20T11:08:59.749+0530] {processor.py:161} INFO - Started process (PID=19623) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:08:59.750+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:08:59.753+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:59.753+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:08:59.766+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:08:59.839+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:59.839+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:08:59.858+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:59.857+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:08:59.950+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.208 seconds
+[2025-02-20T11:09:32.328+0530] {processor.py:161} INFO - Started process (PID=19824) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:09:32.330+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:09:32.333+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:32.332+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:09:32.346+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:09:32.403+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:32.403+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:09:32.416+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:32.416+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:09:32.453+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.134 seconds
+[2025-02-20T11:10:04.260+0530] {processor.py:161} INFO - Started process (PID=19962) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:10:04.261+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:10:04.264+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:04.263+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:10:04.276+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:10:04.336+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:04.335+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:10:04.351+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:04.351+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:10:04.378+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.125 seconds
+[2025-02-20T11:10:34.797+0530] {processor.py:161} INFO - Started process (PID=20591) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:10:34.798+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:10:34.801+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:34.800+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:10:34.812+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:10:34.866+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:34.865+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:10:34.878+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:34.877+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:10:34.906+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.116 seconds
+[2025-02-20T11:11:05.001+0530] {processor.py:161} INFO - Started process (PID=20811) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:11:05.002+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:11:05.004+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:05.004+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:11:05.017+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:11:05.085+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:05.085+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:11:05.097+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:05.097+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:11:05.125+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.131 seconds
+[2025-02-20T11:11:35.732+0530] {processor.py:161} INFO - Started process (PID=20947) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:11:35.734+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:11:35.736+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:35.736+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:11:35.749+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:11:35.808+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:35.808+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:11:35.824+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:35.824+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:11:35.861+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.137 seconds
+[2025-02-20T11:12:05.919+0530] {processor.py:161} INFO - Started process (PID=21080) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:12:05.920+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:12:05.922+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:05.922+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:12:05.933+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:12:05.992+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:05.992+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:12:06.007+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:06.006+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:12:06.033+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.121 seconds
+[2025-02-20T11:12:36.437+0530] {processor.py:161} INFO - Started process (PID=21216) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:12:36.438+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:12:36.440+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:36.440+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:12:36.451+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:12:36.501+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:36.501+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:12:36.513+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:36.513+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:12:36.540+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.110 seconds
+[2025-02-20T11:13:07.428+0530] {processor.py:161} INFO - Started process (PID=21348) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:13:07.429+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:13:07.431+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:07.431+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:13:07.446+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:13:07.502+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:07.502+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:13:07.514+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:07.514+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:13:07.537+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.116 seconds
+[2025-02-20T11:13:38.459+0530] {processor.py:161} INFO - Started process (PID=21480) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:13:38.461+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:13:38.463+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:38.463+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:13:38.476+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:13:38.533+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:38.532+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:13:38.548+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:38.547+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:13:38.579+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.128 seconds
+[2025-02-20T11:14:08.959+0530] {processor.py:161} INFO - Started process (PID=21614) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:14:08.961+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:14:08.964+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:08.964+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:14:08.977+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:14:09.033+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:09.033+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:14:09.045+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:09.045+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:14:09.069+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.117 seconds
+[2025-02-20T11:14:40.008+0530] {processor.py:161} INFO - Started process (PID=21767) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:14:40.011+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:14:40.014+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:40.013+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:14:40.026+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:14:40.082+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:40.082+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:14:40.096+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:40.096+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:14:40.122+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.121 seconds
+[2025-02-20T11:15:12.142+0530] {processor.py:161} INFO - Started process (PID=22099) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:15:12.144+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:15:12.148+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:12.148+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:15:12.175+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:15:12.313+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:12.312+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:15:12.336+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:12.335+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:15:12.412+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.285 seconds
+[2025-02-20T11:15:42.515+0530] {processor.py:161} INFO - Started process (PID=22588) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:15:42.516+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:15:42.519+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:42.519+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:15:42.537+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:15:42.604+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:42.604+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:15:42.618+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:42.618+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:15:42.649+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.144 seconds
+[2025-02-20T11:16:13.477+0530] {processor.py:161} INFO - Started process (PID=22755) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:16:13.478+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:16:13.481+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:13.480+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:16:13.492+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:16:13.547+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:13.547+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:16:13.563+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:13.563+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:16:13.590+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.121 seconds
+[2025-02-20T11:16:43.893+0530] {processor.py:161} INFO - Started process (PID=22937) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:16:43.894+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:16:43.897+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:43.896+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:16:43.908+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:16:43.961+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:43.960+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:16:43.974+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:43.974+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:16:44.001+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.114 seconds
+[2025-02-20T11:17:14.072+0530] {processor.py:161} INFO - Started process (PID=23072) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:17:14.074+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:17:14.076+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:14.076+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:17:14.093+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:17:14.155+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:14.155+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:17:14.168+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:14.168+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:17:14.195+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.132 seconds
+[2025-02-20T11:17:44.847+0530] {processor.py:161} INFO - Started process (PID=23244) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:17:44.849+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:17:44.851+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:44.851+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:17:44.864+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:17:44.920+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:44.920+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:17:44.933+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:44.933+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:17:44.968+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.128 seconds
+[2025-02-20T11:18:15.386+0530] {processor.py:161} INFO - Started process (PID=23382) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:18:15.387+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:18:15.389+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:15.389+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:18:15.401+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:18:15.453+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:15.453+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:18:15.467+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:15.467+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:18:15.492+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.114 seconds
+[2025-02-20T11:18:46.106+0530] {processor.py:161} INFO - Started process (PID=23512) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:18:46.108+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:18:46.111+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:46.110+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:18:46.124+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:18:46.180+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:46.180+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:18:46.193+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:46.193+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:18:46.221+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.123 seconds
+[2025-02-20T11:19:16.705+0530] {processor.py:161} INFO - Started process (PID=23642) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:19:16.707+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:19:16.709+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:16.709+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:19:16.722+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:19:16.773+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:16.773+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:19:16.786+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:16.785+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:19:16.810+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.112 seconds
+[2025-02-20T11:19:47.339+0530] {processor.py:161} INFO - Started process (PID=23772) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:19:47.340+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:19:47.342+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:47.342+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:19:47.356+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:19:47.415+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:47.414+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:19:47.428+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:47.428+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:19:47.457+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.127 seconds
+[2025-02-20T11:20:19.383+0530] {processor.py:161} INFO - Started process (PID=24107) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:20:19.385+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:20:19.389+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:19.388+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:20:19.410+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:20:19.538+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:19.537+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:20:19.569+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:19.568+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:20:19.621+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.248 seconds
+[2025-02-20T11:20:51.770+0530] {processor.py:161} INFO - Started process (PID=24520) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:20:51.773+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:20:51.776+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:51.775+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:20:51.789+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:20:51.847+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:51.847+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:20:51.859+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:51.859+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:20:51.886+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.125 seconds
+[2025-02-20T11:21:24.486+0530] {processor.py:161} INFO - Started process (PID=24734) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:21:24.489+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:21:24.495+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:24.494+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:21:24.522+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:21:24.635+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:24.634+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:21:24.653+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:24.653+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:21:24.689+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.221 seconds
+[2025-02-20T11:21:56.382+0530] {processor.py:161} INFO - Started process (PID=24950) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:21:56.384+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:21:56.386+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:56.386+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:21:56.399+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:21:56.498+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:56.498+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:21:56.520+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:56.520+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:21:56.556+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.181 seconds
+[2025-02-20T11:22:28.078+0530] {processor.py:161} INFO - Started process (PID=25086) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:22:28.079+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:22:28.082+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:28.082+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:22:28.094+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:22:28.146+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:28.145+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:22:28.159+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:28.159+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:22:28.184+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.113 seconds
+[2025-02-20T11:23:01.149+0530] {processor.py:161} INFO - Started process (PID=25222) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:23:01.151+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:23:01.163+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:01.154+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:23:01.183+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:23:01.303+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:01.302+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:23:01.321+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:01.321+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:23:01.360+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.229 seconds
+[2025-02-20T11:23:33.764+0530] {processor.py:161} INFO - Started process (PID=25372) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:23:33.766+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:23:33.769+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:33.768+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:23:33.781+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:23:33.839+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:33.839+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:23:33.852+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:33.852+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:23:33.878+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.120 seconds
+[2025-02-20T11:24:05.767+0530] {processor.py:161} INFO - Started process (PID=25508) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:24:05.769+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:24:05.771+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:05.771+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:24:05.783+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:24:05.840+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:05.839+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:24:05.855+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:05.853+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:24:05.880+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.119 seconds
+[2025-02-20T11:24:38.077+0530] {processor.py:161} INFO - Started process (PID=25644) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:24:38.078+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:24:38.081+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:38.081+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:24:38.095+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:24:38.152+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:38.151+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:24:38.165+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:38.165+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:24:38.190+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.120 seconds
+[2025-02-20T11:25:10.190+0530] {processor.py:161} INFO - Started process (PID=25934) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:25:10.193+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:25:10.196+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:10.195+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:25:10.211+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:25:10.311+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:10.311+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:25:10.341+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:10.341+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:25:10.375+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.193 seconds
+[2025-02-20T11:25:42.737+0530] {processor.py:161} INFO - Started process (PID=26357) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:25:42.739+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:25:42.741+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:42.741+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:25:42.755+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:25:42.817+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:42.817+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:25:42.957+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:42.956+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:25:42.983+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.253 seconds
+[2025-02-20T11:26:16.231+0530] {processor.py:161} INFO - Started process (PID=26431) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:26:16.232+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-20T11:26:16.235+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:26:16.235+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:26:16.248+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-20T11:26:16.310+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:26:16.309+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:26:16.469+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:26:16.468+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-20T11:26:16.522+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.298 seconds

@@ -1,0 +1,896 @@
+[2025-02-20T10:12:58.010+0530] {processor.py:161} INFO - Started process (PID=568) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:12:58.011+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:12:58.013+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:12:58.013+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:12:58.020+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:12:58.069+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:12:58.067+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:12:58.096+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:12:58.096+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:12:58.130+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.126 seconds
+[2025-02-20T10:13:29.491+0530] {processor.py:161} INFO - Started process (PID=770) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:13:29.492+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:13:29.495+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:29.494+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:13:29.511+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:13:29.552+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:29.552+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:13:29.584+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:29.584+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:13:29.618+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.136 seconds
+[2025-02-20T10:13:59.929+0530] {processor.py:161} INFO - Started process (PID=1137) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:13:59.931+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:13:59.933+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:59.933+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:13:59.940+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:13:59.969+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:59.969+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:13:59.992+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:13:59.992+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:14:00.026+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.106 seconds
+[2025-02-20T10:14:30.550+0530] {processor.py:161} INFO - Started process (PID=1189) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:14:30.551+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:14:30.553+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:30.553+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:14:30.562+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:14:30.590+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:30.590+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:14:30.612+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:14:30.612+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:14:30.640+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.096 seconds
+[2025-02-20T10:15:01.076+0530] {processor.py:161} INFO - Started process (PID=1244) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:15:01.077+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:15:01.079+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:01.079+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:15:01.088+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:15:01.118+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:01.117+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:15:01.140+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:01.140+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:15:01.166+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.096 seconds
+[2025-02-20T10:15:31.621+0530] {processor.py:161} INFO - Started process (PID=1753) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:15:31.623+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:15:31.625+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:31.625+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:15:31.634+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:15:31.664+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:31.664+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:15:31.686+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:15:31.686+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:15:31.712+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.099 seconds
+[2025-02-20T10:16:02.136+0530] {processor.py:161} INFO - Started process (PID=1810) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:16:02.137+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:16:02.141+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:02.140+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:16:02.150+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:16:02.190+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:02.189+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:16:02.214+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:02.214+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:16:02.242+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.114 seconds
+[2025-02-20T10:16:32.802+0530] {processor.py:161} INFO - Started process (PID=1867) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:16:32.804+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:16:32.807+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:32.807+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:16:32.814+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:16:32.846+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:32.846+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:16:32.870+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:16:32.869+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:16:32.896+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.100 seconds
+[2025-02-20T10:17:03.222+0530] {processor.py:161} INFO - Started process (PID=1949) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:17:03.223+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:17:03.225+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:03.225+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:17:03.234+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:17:03.266+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:03.265+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:17:03.289+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:03.289+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:17:03.314+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.099 seconds
+[2025-02-20T10:17:33.784+0530] {processor.py:161} INFO - Started process (PID=2012) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:17:33.787+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:17:33.791+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:33.790+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:17:33.802+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:17:33.850+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:33.850+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:17:33.877+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:17:33.877+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:17:33.914+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.138 seconds
+[2025-02-20T10:18:05.110+0530] {processor.py:161} INFO - Started process (PID=2064) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:18:05.112+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:18:05.114+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:05.114+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:18:05.122+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:18:05.152+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:05.152+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:18:05.179+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:05.179+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:18:05.210+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.106 seconds
+[2025-02-20T10:18:35.299+0530] {processor.py:161} INFO - Started process (PID=2121) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:18:35.300+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:18:35.301+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:35.301+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:18:35.309+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:18:35.336+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:35.336+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:18:35.358+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:18:35.358+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:18:35.383+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.091 seconds
+[2025-02-20T10:19:05.759+0530] {processor.py:161} INFO - Started process (PID=2173) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:19:05.760+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:19:05.762+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:05.762+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:19:05.769+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:19:05.800+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:05.800+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:19:05.826+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:05.826+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:19:05.851+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.098 seconds
+[2025-02-20T10:19:36.140+0530] {processor.py:161} INFO - Started process (PID=2227) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:19:36.141+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:19:36.143+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:36.143+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:19:36.151+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:19:36.179+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:36.178+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:19:36.202+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:19:36.202+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:19:36.228+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.094 seconds
+[2025-02-20T10:20:07.714+0530] {processor.py:161} INFO - Started process (PID=2379) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:20:07.715+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:20:07.719+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:07.718+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:20:07.733+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:20:07.778+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:07.777+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:20:07.822+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:07.822+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:20:07.859+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.154 seconds
+[2025-02-20T10:20:39.106+0530] {processor.py:161} INFO - Started process (PID=3320) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:20:39.108+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:20:39.110+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:39.110+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:20:39.120+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:20:39.154+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:39.154+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:20:39.183+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:20:39.183+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:20:39.214+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.117 seconds
+[2025-02-20T10:21:11.144+0530] {processor.py:161} INFO - Started process (PID=3460) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:21:11.145+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:21:11.147+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:11.147+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:21:11.155+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:21:11.183+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:11.183+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:21:11.207+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:11.207+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:21:11.230+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.093 seconds
+[2025-02-20T10:21:43.555+0530] {processor.py:161} INFO - Started process (PID=3650) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:21:43.556+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:21:43.559+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:43.559+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:21:43.566+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:21:43.594+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:43.594+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:21:43.625+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:21:43.625+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:21:43.654+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.106 seconds
+[2025-02-20T10:22:15.722+0530] {processor.py:161} INFO - Started process (PID=3926) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:22:15.725+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:22:15.727+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:15.727+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:22:15.735+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:22:15.767+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:15.767+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:22:15.794+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:15.793+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:22:15.822+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.108 seconds
+[2025-02-20T10:22:48.773+0530] {processor.py:161} INFO - Started process (PID=4103) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:22:48.775+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:22:48.777+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:48.777+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:22:48.785+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:22:48.814+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:48.813+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:22:48.838+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:22:48.837+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:22:48.864+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.097 seconds
+[2025-02-20T10:23:20.427+0530] {processor.py:161} INFO - Started process (PID=4233) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:23:20.429+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:23:20.433+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:20.432+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:23:20.441+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:23:20.474+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:20.473+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:23:20.498+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:20.498+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:23:20.528+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.108 seconds
+[2025-02-20T10:23:52.422+0530] {processor.py:161} INFO - Started process (PID=4371) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:23:52.424+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:23:52.426+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:52.425+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:23:52.434+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:23:52.463+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:52.463+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:23:52.487+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:23:52.486+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:23:52.515+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.099 seconds
+[2025-02-20T10:24:25.735+0530] {processor.py:161} INFO - Started process (PID=4509) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:24:25.736+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:24:25.739+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:25.738+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:24:25.746+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:24:25.776+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:25.775+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:24:25.799+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:25.798+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:24:25.825+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.096 seconds
+[2025-02-20T10:24:58.169+0530] {processor.py:161} INFO - Started process (PID=4645) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:24:58.171+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:24:58.174+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:58.173+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:24:58.183+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:24:58.221+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:58.220+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:24:58.257+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:24:58.257+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:24:58.301+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.141 seconds
+[2025-02-20T10:25:31.863+0530] {processor.py:161} INFO - Started process (PID=5247) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:25:31.865+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:25:31.867+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:25:31.867+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:25:31.877+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:25:31.919+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:25:31.919+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:25:31.951+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:25:31.950+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:25:31.982+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.129 seconds
+[2025-02-20T10:26:03.638+0530] {processor.py:161} INFO - Started process (PID=5385) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:26:03.639+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:26:03.643+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:03.642+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:26:03.652+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:26:03.687+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:03.687+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:26:03.715+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:03.715+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:26:03.739+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.111 seconds
+[2025-02-20T10:26:35.803+0530] {processor.py:161} INFO - Started process (PID=5524) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:26:35.804+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:26:35.807+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:35.807+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:26:35.814+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:26:35.840+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:35.840+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:26:35.955+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:26:35.955+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:26:35.983+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.186 seconds
+[2025-02-20T10:27:08.485+0530] {processor.py:161} INFO - Started process (PID=5665) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:27:08.486+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:27:08.489+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:08.489+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:27:08.498+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:27:08.534+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:08.534+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:27:08.674+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:08.674+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:27:08.701+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.223 seconds
+[2025-02-20T10:27:39.593+0530] {processor.py:161} INFO - Started process (PID=5893) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:27:39.594+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:27:39.596+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:39.596+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:27:39.604+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:27:39.632+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:39.632+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:27:39.655+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:27:39.655+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:27:39.680+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.093 seconds
+[2025-02-20T10:28:12.480+0530] {processor.py:161} INFO - Started process (PID=6027) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:28:12.481+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:28:12.484+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:12.483+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:28:12.494+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:28:12.522+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:12.522+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:28:12.545+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:12.545+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:28:12.571+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.097 seconds
+[2025-02-20T10:28:48.226+0530] {processor.py:161} INFO - Started process (PID=6176) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:28:48.228+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:28:48.231+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:48.231+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:28:48.242+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:28:48.279+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:48.279+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:28:48.311+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:28:48.310+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:28:48.359+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.141 seconds
+[2025-02-20T10:29:19.739+0530] {processor.py:161} INFO - Started process (PID=6306) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:29:19.740+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:29:19.743+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:19.742+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:29:19.750+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:29:19.887+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:19.887+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:29:19.907+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:19.907+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:29:19.931+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.198 seconds
+[2025-02-20T10:29:50.102+0530] {processor.py:161} INFO - Started process (PID=6436) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:29:50.103+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:29:50.105+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:50.105+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:29:50.116+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:29:50.160+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:50.160+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:29:50.192+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:29:50.192+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:29:50.222+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.129 seconds
+[2025-02-20T10:30:23.480+0530] {processor.py:161} INFO - Started process (PID=6901) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:30:23.482+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:30:23.486+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:23.485+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:30:23.496+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:30:23.540+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:23.539+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:30:23.578+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:23.578+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:30:23.613+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.144 seconds
+[2025-02-20T10:30:54.159+0530] {processor.py:161} INFO - Started process (PID=7229) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:30:54.160+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:30:54.162+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:54.162+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:30:54.170+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:30:54.197+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:54.197+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:30:54.220+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:30:54.220+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:30:54.246+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.094 seconds
+[2025-02-20T10:31:27.406+0530] {processor.py:161} INFO - Started process (PID=7369) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:31:27.409+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:31:27.412+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:27.412+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:31:27.429+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:31:27.501+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:27.500+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:31:27.540+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:27.539+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:31:27.585+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.190 seconds
+[2025-02-20T10:31:59.821+0530] {processor.py:161} INFO - Started process (PID=7506) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:31:59.823+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:31:59.825+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:59.825+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:31:59.834+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:31:59.863+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:59.862+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:31:59.886+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:31:59.886+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:31:59.911+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.096 seconds
+[2025-02-20T10:32:32.129+0530] {processor.py:161} INFO - Started process (PID=7644) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:32:32.130+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:32:32.133+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:32:32.132+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:32:32.142+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:32:32.173+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:32:32.173+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:32:32.196+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:32:32.196+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:32:32.220+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.099 seconds
+[2025-02-20T10:33:05.144+0530] {processor.py:161} INFO - Started process (PID=7780) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:33:05.146+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:33:05.149+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:05.148+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:33:05.156+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:33:05.190+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:05.189+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:33:05.215+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:05.215+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:33:05.244+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.109 seconds
+[2025-02-20T10:33:37.382+0530] {processor.py:161} INFO - Started process (PID=7916) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:33:37.384+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:33:37.387+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:37.387+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:33:37.402+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:33:37.440+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:37.440+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:33:37.477+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:33:37.476+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:33:37.549+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.177 seconds
+[2025-02-20T10:34:09.941+0530] {processor.py:161} INFO - Started process (PID=8055) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:34:09.942+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:34:09.944+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:09.944+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:34:09.952+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:34:09.981+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:09.980+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:34:10.007+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:10.007+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:34:10.033+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.098 seconds
+[2025-02-20T10:34:41.909+0530] {processor.py:161} INFO - Started process (PID=8193) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:34:41.910+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:34:41.913+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:41.913+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:34:41.922+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:34:41.956+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:41.956+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:34:41.981+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:34:41.981+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:34:42.009+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.109 seconds
+[2025-02-20T10:35:15.437+0530] {processor.py:161} INFO - Started process (PID=8527) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:35:15.440+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:35:15.442+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:15.441+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:35:15.452+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:35:15.484+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:15.483+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:35:15.508+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:15.508+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:35:15.538+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.108 seconds
+[2025-02-20T10:35:47.461+0530] {processor.py:161} INFO - Started process (PID=8962) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:35:47.463+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:35:47.465+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:47.465+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:35:47.475+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:35:47.505+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:47.505+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:35:47.537+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:35:47.537+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:35:47.573+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.118 seconds
+[2025-02-20T10:36:19.803+0530] {processor.py:161} INFO - Started process (PID=9098) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:36:19.804+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:36:19.807+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:19.806+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:36:19.816+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:36:19.852+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:19.851+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:36:19.882+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:19.882+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:36:19.905+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.109 seconds
+[2025-02-20T10:36:50.193+0530] {processor.py:161} INFO - Started process (PID=9229) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:36:50.195+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:36:50.198+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:50.198+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:36:50.206+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:36:50.235+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:50.235+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:36:50.258+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:36:50.258+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:36:50.294+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.108 seconds
+[2025-02-20T10:37:24.637+0530] {processor.py:161} INFO - Started process (PID=9372) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:37:24.639+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:37:24.641+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:24.641+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:37:24.649+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:37:24.678+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:24.678+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:37:24.702+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:24.702+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:37:24.728+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.097 seconds
+[2025-02-20T10:37:56.258+0530] {processor.py:161} INFO - Started process (PID=9504) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:37:56.259+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:37:56.261+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:56.261+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:37:56.269+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:37:56.296+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:56.296+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:37:56.319+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:37:56.319+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:37:56.343+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.092 seconds
+[2025-02-20T10:38:29.224+0530] {processor.py:161} INFO - Started process (PID=9640) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:38:29.225+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:38:29.227+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:29.227+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:38:29.236+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:38:29.269+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:29.268+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:38:29.293+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:38:29.293+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:38:29.318+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.101 seconds
+[2025-02-20T10:39:01.488+0530] {processor.py:161} INFO - Started process (PID=9784) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:39:01.490+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:39:01.501+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:39:01.500+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:39:01.516+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:39:01.565+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:39:01.565+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:39:01.606+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:39:01.605+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:39:02.087+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.615 seconds
+[2025-02-20T10:46:03.612+0530] {processor.py:161} INFO - Started process (PID=9946) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:46:03.614+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:46:03.616+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:03.616+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:46:03.624+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:46:03.658+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:03.658+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:46:03.700+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:03.700+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:46:03.739+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.135 seconds
+[2025-02-20T10:46:35.020+0530] {processor.py:161} INFO - Started process (PID=10563) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:46:35.023+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:46:35.027+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:35.027+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:46:35.038+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:46:35.085+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:35.085+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:46:35.120+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:46:35.120+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:46:35.158+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.148 seconds
+[2025-02-20T10:47:05.955+0530] {processor.py:161} INFO - Started process (PID=11114) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:47:05.957+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:47:05.960+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:05.959+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:47:05.968+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:47:05.999+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:05.998+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:47:06.022+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:06.022+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:47:06.045+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.097 seconds
+[2025-02-20T10:47:36.808+0530] {processor.py:161} INFO - Started process (PID=11281) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:47:36.811+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:47:36.813+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:36.813+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:47:36.820+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:47:36.853+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:36.853+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:47:36.878+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:47:36.878+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:47:36.906+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.106 seconds
+[2025-02-20T10:48:07.840+0530] {processor.py:161} INFO - Started process (PID=11413) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:48:07.842+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:48:07.845+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:07.844+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:48:07.857+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:48:07.891+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:07.891+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:48:07.918+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:07.917+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:48:07.948+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.118 seconds
+[2025-02-20T10:48:38.377+0530] {processor.py:161} INFO - Started process (PID=11548) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:48:38.378+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:48:38.380+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:38.380+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:48:38.388+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:48:38.420+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:38.420+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:48:38.454+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:48:38.453+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:48:38.489+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.119 seconds
+[2025-02-20T10:49:09.329+0530] {processor.py:161} INFO - Started process (PID=11680) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:49:09.331+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:49:09.339+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:09.338+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:49:09.351+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:49:09.398+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:09.398+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:49:09.439+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:09.439+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:49:09.477+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.166 seconds
+[2025-02-20T10:49:40.331+0530] {processor.py:161} INFO - Started process (PID=11812) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:49:40.332+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:49:40.334+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:40.334+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:49:40.342+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:49:40.375+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:40.375+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:49:40.397+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:49:40.397+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:49:40.424+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.099 seconds
+[2025-02-20T10:50:11.685+0530] {processor.py:161} INFO - Started process (PID=12104) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:50:11.687+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:50:11.689+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:11.689+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:50:11.699+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:50:11.737+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:11.737+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:50:11.765+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:11.765+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:50:11.799+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.124 seconds
+[2025-02-20T10:50:43.200+0530] {processor.py:161} INFO - Started process (PID=12532) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:50:43.202+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:50:43.204+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:43.204+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:50:43.211+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:50:43.239+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:43.239+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:50:43.265+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:50:43.264+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:50:43.291+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.097 seconds
+[2025-02-20T10:51:15.183+0530] {processor.py:161} INFO - Started process (PID=12670) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:51:15.184+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:51:15.187+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:15.187+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:51:15.195+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:51:15.226+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:15.226+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:51:15.252+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:15.251+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:51:15.278+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.103 seconds
+[2025-02-20T10:51:46.719+0530] {processor.py:161} INFO - Started process (PID=12800) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:51:46.722+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:51:46.724+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:46.724+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:51:46.732+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:51:46.759+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:46.758+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:51:46.782+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:51:46.782+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:51:46.806+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.094 seconds
+[2025-02-20T10:52:18.050+0530] {processor.py:161} INFO - Started process (PID=12936) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:52:18.054+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:52:18.060+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:18.059+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:52:18.072+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:52:18.118+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:18.118+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:52:18.153+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:18.153+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:52:18.194+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.161 seconds
+[2025-02-20T10:52:50.365+0530] {processor.py:161} INFO - Started process (PID=13066) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:52:50.369+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:52:50.373+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:50.372+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:52:50.381+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:52:50.415+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:50.414+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:52:50.443+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:52:50.442+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:52:50.472+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.120 seconds
+[2025-02-20T10:53:22.535+0530] {processor.py:161} INFO - Started process (PID=13202) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:53:22.537+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:53:22.540+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:22.540+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:53:22.551+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:53:22.588+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:22.588+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:53:22.617+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:22.617+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:53:22.651+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.127 seconds
+[2025-02-20T10:53:54.898+0530] {processor.py:161} INFO - Started process (PID=13341) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:53:54.900+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:53:54.902+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:54.902+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:53:54.912+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:53:54.946+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:54.945+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:53:54.975+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:53:54.974+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:53:55.002+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.111 seconds
+[2025-02-20T10:54:26.321+0530] {processor.py:161} INFO - Started process (PID=13473) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:54:26.322+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:54:26.324+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:26.324+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:54:26.334+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:54:26.365+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:26.365+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:54:26.389+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:26.389+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:54:26.416+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.103 seconds
+[2025-02-20T10:54:56.623+0530] {processor.py:161} INFO - Started process (PID=13614) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:54:56.625+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:54:56.629+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:56.628+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:54:56.638+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:54:56.681+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:56.680+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:54:56.714+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:54:56.714+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:54:56.756+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.142 seconds
+[2025-02-20T10:55:27.215+0530] {processor.py:161} INFO - Started process (PID=14224) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:55:27.219+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:55:27.223+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:27.222+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:55:27.237+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:55:27.313+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:27.313+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:55:27.375+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:27.374+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:55:27.445+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.241 seconds
+[2025-02-20T10:55:57.518+0530] {processor.py:161} INFO - Started process (PID=14453) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:55:57.520+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:55:57.522+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:57.522+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:55:57.530+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:55:57.561+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:57.561+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:55:57.586+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:55:57.585+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:55:57.612+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.103 seconds
+[2025-02-20T10:56:27.716+0530] {processor.py:161} INFO - Started process (PID=14593) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:56:27.718+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:56:27.721+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:27.720+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:56:27.740+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:56:27.794+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:27.794+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:56:27.832+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:27.832+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:56:27.866+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.157 seconds
+[2025-02-20T10:56:58.110+0530] {processor.py:161} INFO - Started process (PID=14792) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:56:58.112+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:56:58.114+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:58.114+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:56:58.133+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:56:58.183+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:58.182+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:56:58.227+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:56:58.226+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:56:58.271+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.173 seconds
+[2025-02-20T10:57:28.447+0530] {processor.py:161} INFO - Started process (PID=14922) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:57:28.449+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:57:28.451+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:28.451+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:57:28.463+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:57:28.500+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:28.500+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:57:28.532+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:28.531+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:57:28.565+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.127 seconds
+[2025-02-20T10:57:58.962+0530] {processor.py:161} INFO - Started process (PID=15073) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:57:58.963+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:57:58.966+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:58.966+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:57:58.975+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:57:59.008+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:59.008+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:57:59.035+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:57:59.035+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:57:59.067+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.111 seconds
+[2025-02-20T10:58:29.865+0530] {processor.py:161} INFO - Started process (PID=15209) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:58:29.866+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:58:29.871+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:29.870+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:58:29.879+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:58:29.914+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:29.914+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:58:29.945+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:58:29.945+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:58:29.986+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.129 seconds
+[2025-02-20T10:59:00.584+0530] {processor.py:161} INFO - Started process (PID=15359) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:59:00.585+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:59:00.588+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:00.587+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:59:00.596+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:59:00.623+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:00.623+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:59:00.645+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:00.645+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:59:00.668+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.090 seconds
+[2025-02-20T10:59:31.573+0530] {processor.py:161} INFO - Started process (PID=15491) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:59:31.574+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T10:59:31.577+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:31.576+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:59:31.585+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T10:59:31.611+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:31.611+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T10:59:31.634+0530] {logging_mixin.py:188} INFO - [2025-02-20T10:59:31.634+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T10:59:31.668+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.102 seconds
+[2025-02-20T11:00:02.354+0530] {processor.py:161} INFO - Started process (PID=15662) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:00:02.355+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:00:02.358+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:02.357+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:00:02.366+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:00:02.412+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:02.412+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:00:02.444+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:02.444+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:00:02.471+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.124 seconds
+[2025-02-20T11:00:33.199+0530] {processor.py:161} INFO - Started process (PID=16327) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:00:33.200+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:00:33.202+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:33.202+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:00:33.210+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:00:33.242+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:33.242+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:00:33.266+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:00:33.266+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:00:33.291+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.100 seconds
+[2025-02-20T11:01:03.559+0530] {processor.py:161} INFO - Started process (PID=16477) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:01:03.560+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:01:03.562+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:03.562+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:01:03.570+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:01:03.601+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:03.600+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:01:03.622+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:03.621+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:01:03.650+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.100 seconds
+[2025-02-20T11:01:34.423+0530] {processor.py:161} INFO - Started process (PID=16636) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:01:34.424+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:01:34.427+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:34.426+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:01:34.434+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:01:34.468+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:34.468+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:01:34.494+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:01:34.493+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:01:34.518+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.102 seconds
+[2025-02-20T11:02:05.430+0530] {processor.py:161} INFO - Started process (PID=16847) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:02:05.432+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:02:05.440+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:05.437+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:02:05.449+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:02:05.483+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:05.482+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:02:05.508+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:05.507+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:02:05.532+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.115 seconds
+[2025-02-20T11:02:36.319+0530] {processor.py:161} INFO - Started process (PID=17015) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:02:36.321+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:02:36.323+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:36.323+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:02:36.331+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:02:36.370+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:36.369+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:02:36.402+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:02:36.402+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:02:36.438+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.127 seconds
+[2025-02-20T11:03:06.574+0530] {processor.py:161} INFO - Started process (PID=17204) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:03:06.576+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:03:06.579+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:06.579+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:03:06.592+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:03:06.649+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:06.649+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:03:06.688+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:06.688+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:03:06.732+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.173 seconds
+[2025-02-20T11:03:38.626+0530] {processor.py:161} INFO - Started process (PID=17423) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:03:38.628+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:03:38.630+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:38.630+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:03:38.639+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:03:38.679+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:38.678+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:03:38.708+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:03:38.707+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:03:38.735+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.117 seconds
+[2025-02-20T11:04:11.156+0530] {processor.py:161} INFO - Started process (PID=17656) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:04:11.159+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:04:11.162+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:11.162+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:04:11.170+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:04:11.203+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:11.203+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:04:11.228+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:11.228+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:04:11.256+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.109 seconds
+[2025-02-20T11:04:43.875+0530] {processor.py:161} INFO - Started process (PID=17850) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:04:43.876+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:04:43.879+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:43.878+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:04:43.886+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:04:43.916+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:43.916+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:04:43.940+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:04:43.940+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:04:43.969+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.101 seconds
+[2025-02-20T11:05:16.404+0530] {processor.py:161} INFO - Started process (PID=18206) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:05:16.406+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:05:16.408+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:16.408+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:05:16.417+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:05:16.461+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:16.461+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:05:16.494+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:16.493+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:05:16.529+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.133 seconds
+[2025-02-20T11:05:47.613+0530] {processor.py:161} INFO - Started process (PID=18723) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:05:47.614+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:05:47.617+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:47.616+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:05:47.626+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:05:47.663+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:47.663+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:05:47.688+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:05:47.688+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:05:47.714+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.108 seconds
+[2025-02-20T11:06:19.536+0530] {processor.py:161} INFO - Started process (PID=18918) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:06:19.537+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:06:19.540+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:19.540+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:06:19.552+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:06:19.594+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:19.594+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:06:19.628+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:19.628+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:06:19.673+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.144 seconds
+[2025-02-20T11:06:52.254+0530] {processor.py:161} INFO - Started process (PID=19076) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:06:52.255+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:06:52.258+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:52.257+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:06:52.266+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:06:52.297+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:52.297+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:06:52.326+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:06:52.326+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:06:52.353+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.107 seconds
+[2025-02-20T11:07:24.225+0530] {processor.py:161} INFO - Started process (PID=19230) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:07:24.228+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:07:24.231+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:24.231+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:07:24.239+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:07:24.271+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:24.271+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:07:24.296+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:24.296+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:07:24.323+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.105 seconds
+[2025-02-20T11:07:56.027+0530] {processor.py:161} INFO - Started process (PID=19370) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:07:56.029+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:07:56.031+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:56.030+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:07:56.039+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:07:56.067+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:56.067+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:07:56.089+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:07:56.089+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:07:56.114+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.093 seconds
+[2025-02-20T11:08:29.189+0530] {processor.py:161} INFO - Started process (PID=19506) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:08:29.190+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:08:29.192+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:29.192+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:08:29.200+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:08:29.229+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:29.229+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:08:29.256+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:08:29.256+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:08:29.288+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.108 seconds
+[2025-02-20T11:09:02.111+0530] {processor.py:161} INFO - Started process (PID=19664) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:09:02.113+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:09:02.116+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:02.116+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:09:02.125+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:09:02.162+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:02.162+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:09:02.194+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:02.194+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:09:02.226+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.123 seconds
+[2025-02-20T11:09:34.334+0530] {processor.py:161} INFO - Started process (PID=19858) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:09:34.336+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:09:34.338+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:34.338+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:09:34.346+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:09:34.375+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:34.375+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:09:34.402+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:09:34.402+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:09:34.427+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.100 seconds
+[2025-02-20T11:10:05.903+0530] {processor.py:161} INFO - Started process (PID=19997) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:10:05.904+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:10:05.908+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:05.908+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:10:05.918+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:10:05.953+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:05.952+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:10:05.980+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:05.980+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:10:06.015+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.121 seconds
+[2025-02-20T11:10:36.315+0530] {processor.py:161} INFO - Started process (PID=20619) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:10:36.317+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:10:36.320+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:36.319+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:10:36.330+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:10:36.362+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:36.362+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:10:36.395+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:10:36.395+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:10:36.425+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.118 seconds
+[2025-02-20T11:11:08.790+0530] {processor.py:161} INFO - Started process (PID=20851) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:11:08.791+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:11:08.793+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:08.793+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:11:08.804+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:11:08.841+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:08.841+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:11:08.872+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:08.872+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:11:08.898+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.118 seconds
+[2025-02-20T11:11:40.845+0530] {processor.py:161} INFO - Started process (PID=20987) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:11:40.847+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:11:40.849+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:40.849+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:11:40.863+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:11:40.910+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:40.910+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:11:40.966+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:11:40.965+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:11:41.050+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.215 seconds
+[2025-02-20T11:12:12.830+0530] {processor.py:161} INFO - Started process (PID=21126) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:12:12.831+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:12:12.833+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:12.833+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:12:12.841+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:12:12.872+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:12.872+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:12:12.898+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:12.898+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:12:12.926+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.104 seconds
+[2025-02-20T11:12:45.667+0530] {processor.py:161} INFO - Started process (PID=21262) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:12:45.668+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:12:45.671+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:45.671+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:12:45.679+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:12:45.710+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:45.710+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:12:45.750+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:12:45.749+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:12:45.786+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.127 seconds
+[2025-02-20T11:13:17.636+0530] {processor.py:161} INFO - Started process (PID=21400) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:13:17.638+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:13:17.640+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:17.640+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:13:17.649+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:13:17.681+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:17.680+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:13:17.707+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:17.707+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:13:17.741+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.112 seconds
+[2025-02-20T11:13:49.377+0530] {processor.py:161} INFO - Started process (PID=21532) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:13:49.378+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:13:49.381+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:49.380+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:13:49.389+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:13:49.419+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:49.419+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:13:49.445+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:13:49.444+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:13:49.473+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.103 seconds
+[2025-02-20T11:14:22.059+0530] {processor.py:161} INFO - Started process (PID=21695) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:14:22.060+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:14:22.062+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:22.062+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:14:22.070+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:14:22.103+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:22.103+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:14:22.130+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:22.130+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:14:22.154+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.102 seconds
+[2025-02-20T11:14:52.983+0530] {processor.py:161} INFO - Started process (PID=21860) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:14:52.985+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:14:52.989+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:52.989+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:14:53.001+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:14:53.047+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:53.046+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:14:53.081+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:14:53.081+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:14:53.115+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.143 seconds
+[2025-02-20T11:15:23.643+0530] {processor.py:161} INFO - Started process (PID=22330) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:15:23.645+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:15:23.649+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:23.648+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:15:23.662+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:15:23.703+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:23.702+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:15:23.746+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:23.745+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:15:23.785+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.156 seconds
+[2025-02-20T11:15:54.324+0530] {processor.py:161} INFO - Started process (PID=22652) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:15:54.327+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:15:54.330+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:54.330+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:15:54.342+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:15:54.381+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:54.381+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:15:54.411+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:15:54.411+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:15:54.439+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.122 seconds
+[2025-02-20T11:16:24.568+0530] {processor.py:161} INFO - Started process (PID=22857) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:16:24.570+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:16:24.572+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:24.572+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:16:24.581+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:16:24.614+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:24.614+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:16:24.646+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:24.646+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:16:24.673+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.113 seconds
+[2025-02-20T11:16:55.592+0530] {processor.py:161} INFO - Started process (PID=22995) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:16:55.595+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:16:55.597+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:55.597+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:16:55.606+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:16:55.634+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:55.634+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:16:55.657+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:16:55.656+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:16:55.681+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.095 seconds
+[2025-02-20T11:17:25.992+0530] {processor.py:161} INFO - Started process (PID=23172) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:17:25.993+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:17:25.995+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:25.995+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:17:26.004+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:17:26.033+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:26.033+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:17:26.057+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:26.056+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:17:26.080+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.096 seconds
+[2025-02-20T11:17:56.523+0530] {processor.py:161} INFO - Started process (PID=23310) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:17:56.525+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:17:56.527+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:56.527+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:17:56.536+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:17:56.563+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:56.563+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:17:56.586+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:17:56.586+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:17:56.613+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.097 seconds
+[2025-02-20T11:18:27.131+0530] {processor.py:161} INFO - Started process (PID=23440) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:18:27.140+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:18:27.142+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:27.142+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:18:27.161+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:18:27.201+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:27.201+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:18:27.226+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:27.226+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:18:27.251+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.126 seconds
+[2025-02-20T11:18:57.657+0530] {processor.py:161} INFO - Started process (PID=23570) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:18:57.660+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:18:57.664+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:57.664+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:18:57.674+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:18:57.702+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:57.702+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:18:57.725+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:18:57.725+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:18:57.750+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.102 seconds
+[2025-02-20T11:19:28.425+0530] {processor.py:161} INFO - Started process (PID=23706) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:19:28.426+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:19:28.428+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:28.428+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:19:28.437+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:19:28.466+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:28.466+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:19:28.497+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:28.497+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:19:28.523+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.104 seconds
+[2025-02-20T11:19:59.326+0530] {processor.py:161} INFO - Started process (PID=23838) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:19:59.327+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:19:59.330+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:59.330+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:19:59.343+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:19:59.376+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:59.376+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:19:59.405+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:19:59.405+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:19:59.438+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.121 seconds
+[2025-02-20T11:20:30.106+0530] {processor.py:161} INFO - Started process (PID=24389) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:20:30.108+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:20:30.111+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:30.111+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:20:30.123+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:20:30.163+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:30.162+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:20:30.202+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:20:30.202+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:20:30.286+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.190 seconds
+[2025-02-20T11:21:00.761+0530] {processor.py:161} INFO - Started process (PID=24573) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:21:00.764+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:21:00.766+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:00.766+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:21:00.774+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:21:00.809+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:00.808+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:21:00.845+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:00.845+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:21:00.883+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.129 seconds
+[2025-02-20T11:21:31.411+0530] {processor.py:161} INFO - Started process (PID=24780) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:21:31.412+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:21:31.415+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:31.415+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:21:31.423+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:21:31.454+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:31.454+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:21:31.477+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:21:31.477+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:21:31.504+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.101 seconds
+[2025-02-20T11:22:02.156+0530] {processor.py:161} INFO - Started process (PID=24996) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:22:02.158+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:22:02.162+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:02.162+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:22:02.171+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:22:02.202+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:02.202+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:22:02.225+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:02.225+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:22:02.248+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.099 seconds
+[2025-02-20T11:22:32.826+0530] {processor.py:161} INFO - Started process (PID=25126) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:22:32.827+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:22:32.830+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:32.830+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:22:32.840+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:22:32.876+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:32.876+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:22:32.904+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:22:32.904+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:22:32.933+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.114 seconds
+[2025-02-20T11:23:03.140+0530] {processor.py:161} INFO - Started process (PID=25256) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:23:03.143+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:23:03.145+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:03.145+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:23:03.152+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:23:03.181+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:03.181+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:23:03.210+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:03.209+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:23:03.244+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.110 seconds
+[2025-02-20T11:23:35.843+0530] {processor.py:161} INFO - Started process (PID=25406) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:23:35.844+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:23:35.846+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:35.846+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:23:35.853+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:23:35.881+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:35.881+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:23:35.902+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:23:35.902+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:23:35.929+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.092 seconds
+[2025-02-20T11:24:07.765+0530] {processor.py:161} INFO - Started process (PID=25542) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:24:07.766+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:24:07.769+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:07.768+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:24:07.776+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:24:07.805+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:07.805+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:24:07.831+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:07.831+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:24:07.976+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.218 seconds
+[2025-02-20T11:24:39.680+0530] {processor.py:161} INFO - Started process (PID=25678) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:24:39.682+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:24:39.684+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:39.683+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:24:39.691+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:24:39.718+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:39.718+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:24:39.740+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:24:39.739+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:24:39.764+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.090 seconds
+[2025-02-20T11:25:12.314+0530] {processor.py:161} INFO - Started process (PID=25975) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:25:12.315+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:25:12.318+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:12.317+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:25:12.328+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:25:12.366+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:12.365+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:25:12.397+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:12.397+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:25:12.429+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.124 seconds
+[2025-02-20T11:25:44.755+0530] {processor.py:161} INFO - Started process (PID=26387) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:25:44.756+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:25:44.759+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:44.759+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:25:44.767+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:25:44.796+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:44.796+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:25:44.832+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:25:44.831+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:25:44.862+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.114 seconds
+[2025-02-20T11:26:19.779+0530] {processor.py:161} INFO - Started process (PID=26471) to work on /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:26:19.780+0530] {processor.py:830} INFO - Processing file /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T11:26:19.783+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:26:19.782+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:26:19.790+0530] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T11:26:19.821+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:26:19.821+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-20T11:26:19.847+0530] {logging_mixin.py:188} INFO - [2025-02-20T11:26:19.847+0530] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19T00:00:00+00:00, run_after=2025-02-20T00:00:00+00:00
+[2025-02-20T11:26:19.923+0530] {processor.py:183} INFO - Processing /home/nitesh/project_1/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.152 seconds

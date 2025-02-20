@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% block content %}
+{% if youtube_data %}
+<form method="POST">
+    {% csrf_token %}
+    <label>Select Playlists:</label><br>
+    <ul>
+        {% for playlist in youtube_data.playlists %}
+            <li>
+                <input type="checkbox" name="playlists" value="{{ playlist.id }}:&:{{ playlist.thumbnail }}" {% if playlist.id in selectedPlaylist %} checked {% endif %}>
+                <a href="/custom_playlist/{{playlist.id }}" target="_self">
+                    <img src="{{ playlist.thumbnail }}" alt="{{ playlist.title }}" width="200"></a>
+                    <br>
+                <strong>{{ playlist.title }}</strong><br>
+                {{ playlist.description }}<br>
+                <br>
+                <!-- <a href="/custom_playlist/{{playlist.id }}" target="_self">View Playlist</a> -->
+            </li>
+        {% endfor %}
+    </ul>
+    <br>
+    <button type="submit">Save Playlists</button>
+</form>
+{% else %}
+<p>No results found.</p>
+{% endif %}
+<a href="/save_course">Create course</a>
+{% endblock %}
