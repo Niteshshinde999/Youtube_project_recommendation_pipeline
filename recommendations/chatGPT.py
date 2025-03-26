@@ -3,8 +3,8 @@ import openai
 import json
 
 def getData(payload):
-  # openai.api_key = "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"
-  openai.api_key = "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"
+  # openai.api_key = "xxxxxxxxxxxxxxxxx"
+  openai.api_key = "xxxxxxxxxxxxxxxxxxxxxx"
   URL = "https://api.openai.com/v1/chat/completions"
 
   data = payload
