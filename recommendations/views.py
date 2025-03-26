@@ -46,7 +46,7 @@ def logout_view(request):
     return redirect('login')
 
 #YOUTUBE DATA
-YOUTUBE_API_KEY = "AIzaSyBVb3q_P7yALzBMJKSXuHtPygS3uHKSRPw"
+YOUTUBE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxx"
 def get_youtube_data(query):
     youtube_search_url = "https://www.googleapis.com/youtube/v3/search"
     parameters = {
