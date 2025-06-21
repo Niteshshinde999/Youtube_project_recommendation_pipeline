@@ -1,4 +1,5 @@
-# 📚 Custom Course Recommender using YouTube, PySpark & Django
+#  KnowEdge
+## 📚 Custom Course Recommender using YouTube, PySpark & Django
 A full-stack data engineering project where users can create custom courses using YouTube videos and playlists. The system tracks user activity and provides personalized recommendations using a PySpark-based ALS model. Additionally, when a user watches a video, the system generates relevant practice questions using the ChatGPT API to reinforce learning. The application is built with Django, PySpark, Airflow, PostgreSQL, and Docker.
 
 
