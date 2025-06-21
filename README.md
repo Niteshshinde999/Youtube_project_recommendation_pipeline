@@ -95,19 +95,17 @@ Recommended courses and videos based on user activity.
 
 ---
 
-### 8️⃣ Airflow DAG View
-Airflow UI showing the daily recommendation training DAG.  
-![Airflow DAG](screenshots/8_airflow_dag.png)
-
----
-
-### 9️⃣ Practice Questions Page
+### 8️⃣ Practice Questions Page
 Auto-generated topic-based questions using ChatGPT API.  
 ![Practice Questions](screenshots/9_practice_questions.png)
 
-### 6️⃣ Airflow DAG
-This DAG handles the daily training of the recommendation model.
-![Airflow DAG](screenshots/6_airflow_dag.png)
+---
+
+### 9️⃣ Airflow DAG View
+Airflow UI showing the daily recommendation training DAG.  
+![Airflow DAG](screenshots/8_airflow_dag.png)
+
+
 
 # 🧠 About Me
 
